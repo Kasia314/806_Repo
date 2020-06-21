@@ -1,0 +1,2078 @@
+,Year,Month,Country,Area,Location,Fatality
+0,2018.0,jun,USA,California,"Oceanside, San Diego County",N
+1,2018.0,jun,USA,Georgia,"St. Simon Island, Glynn County",N
+2,2018.0,jun,USA,Hawaii,"Habush, Oahu",N
+3,2018.0,jun,AUSTRALIA,New South Wales,Arrawarra Headland,N
+4,2018.0,jun,MEXICO,Colima,La Ticla,N
+5,2018.0,jun,AUSTRALIA,New South Wales,"Flat Rock, Ballina",N
+6,2018.0,jun,BRAZIL,Pernambuco,"Piedade Beach, Recife",Y
+7,2018.0,may,USA,Florida,"Lighhouse Point Park, Ponce Inlet, Volusia County",N
+8,2018.0,may,USA,Florida,"Cocoa Beach, Brevard  County",N
+9,2018.0,may,USA,Florida,"Daytona Beach, Volusia County",N
+10,2018.0,may,AUSTRALIA,Queensland,Cairns Aquarium,N
+11,2018.0,may,USA,South Carolina,"Isle of Palms,  Charleston County",N
+12,2018.0,may,USA,South Carolina,"Hilton Head Island, Beaufort County",N
+13,2018.0,may,NUNITED KINGDOM,Cornwall,Off Land's End,N
+14,2018.0,,AUSTRALIA,Westerm Australia,Dugong Bay,N
+15,2018.0,may,SOUTH AFRICA,Eastern Cape Province,"Nahoon Beach, East London",N
+16,2018.0,may,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",N
+17,2018.0,apr,THAILAND,Hua Hin,Sai Noi Beach,N
+18,2018.0,apr,COSTA RICA,Cocos Island,Manuelita,N
+19,2018.0,apr,AUSTRALIA,Western Australia,Gearys Beach,N
+20,2018.0,apr,AUSTRALIA,New South Wales,Lennox Head,N
+21,2018.0,apr,AUSTRALIA,Western Australia,"Surfers Point, Prevelly",N
+22,2018.0,apr,AUSTRALIA,Western Australia,"South Point, Gracetown",N
+23,2018.0,apr,MALDIVES,Alifu Alifu Atoll,Madoogali,N
+24,2018.0,apr,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",N
+25,2018.0,apr,USA,Hawaii,"Shipwrecks Beach, Keoneloa Bay, Kauai",N
+26,2018.0,apr,THAILAND,Hua Hin,Sai Noi Beach,N
+27,2018.0,apr,BRAZIL,Pernambuco,Piedade,UNKNOWN
+28,2018.0,apr,AUSTRALIA,Western Australia,"Lefthanders, Margaret River Area",N
+29,2018.0,apr,AUSTRALIA,Western Australia,"Cobblestones, Margaret River Area",N
+30,2018.0,apr,BAHAMAS,New Providence,Nirvana Beach,N
+31,2018.0,apr,BRAZIL,Alagoas,"Praia de Sauaçuhy, Maceió",N
+32,2018.0,apr,NEW CALEDONIA,,"Magenta Beach, Noumea",N
+33,2018.0,apr,BAHAMAS,,Bimini,N
+34,2018.0,apr,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,N
+35,2018.0,mar,USA,Hawaii,Kukio Beach,N
+36,2018.0,mar,AUSTRALIA,Western Australia,Waterman's Bay,N
+37,2018.0,mar,AUSTRALIA,Victoria,Lorne,N
+38,2018.0,mar,AUSTRALIA,Victoria,Winkipop,N
+39,2018.0,feb,SOUTH AFRICA,KwaZulu-Natal,Durban,N
+40,2018.0,feb,AUSTRALIA,New South Wales,"Little Congwong Beach, La Perouse ",N
+41,2018.0,feb,AUSTRALIA,Victoria,Westernport Bay,N
+42,2018.0,feb,AUSTRALIA,New South Wales,"Surf Beach, Kiama",N
+43,2018.0,feb,AUSTRALIA,Queensland,Mooloolaba Beach,N
+44,2018.0,feb,BRAZIL,"Boi Island, Victoria",Espirito Santo,N
+45,2018.0,feb,ECUADOR,Galapagos Islands,Santa Fe Island,N
+46,2018.0,feb,AUSTRALIA,Western Australia,"Avalon Point, Manurah",N
+47,2018.0,jan,AUSTRALIA,Western Australia,Cone Bay,N
+48,2018.0,jan,NEW CALEDONIA,,Nouville,N
+49,2018.0,jan,AUSTRALIA,Queensland,Lizard Island,N
+50,2018.0,jan,AUSTRALIA,New South Wales,Martin Islet,N
+51,2018.0,jan,BRAZIL,Fernando de Noronha,Conceicao Beach,N
+52,2018.0,jan,AUSTRALIA,Western Australia,"South Point, Gracetown",N
+53,2017.0,dec,USA,Hawaii,"Hultin's Beach, Oahu",N
+54,2017.0,dec,USA,California,"Drakes Estero, Point Reyes, Marin County",N
+55,2017.0,dec,MALAYSIA,Sepang,Bagan Lalang Beach,N
+56,2017.0,dec,BAHAMAS,,,N
+57,2017.0,nov,COSTA RICA,Cocos Island,Manuelita,N
+58,2017.0,nov,COSTA RICA,Cocos Island,Manuelita,Y
+59,2017.0,nov,LIBYA,, Gars Garabulli,Y
+60,2017.0,nov,USA,California,"Stillwater Cove, Monterey County",N
+61,2017.0,nov,USA,Florida,"Floridana Beach, Brevard County",N
+63,2017.0,nov,AUSTRALIA,New South Wales,Avoca Beach,N
+64,2017.0,nov,CUBA,Holquin Province,Guardalavaca Beach,Y
+65,2017.0,oct,AUSTRALIA,Queensland,Magnetic Island,N
+66,2017.0,oct,AUSTRALIA,New South Wales,Birubi Point,N
+67,2017.0,oct,USA,Hawaii,"White Plains Beach, Oahu",N
+68,2017.0,oct,MAURITIUS,Pamplemousses ,Le Goulet,N
+69,2017.0,oct,USA,Florida,"Juno Beach, Palm Beach County",N
+70,2017.0,oct,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",N
+71,2017.0,oct,AUSTRALIA,South Australia,Normanville,N
+72,2017.0,oct,NEW ZEALAND,North Island,"Off Tapuna Beach, Auckand",N
+73,2017.0,oct,USA,Florida,"Lantana Beach, Palm Beach County",N
+74,2017.0,oct,USA,Hawaii,"Davidsons Beach, Kekaha, Kauai",N
+75,2017.0,oct,USA,Hawaii,"Kamaole Beach Park, Maui ",N
+76,2017.0,oct,SOUTH AFRICA,Western Cape Province,Dyer Island,UNKNOWN
+77,2017.0,sep,USA,Florida,"Hanna Park, Jacksonville, Duval County",N
+78,2017.0,sep,AUSTRALIA,Western Australia,Gracetown,N
+79,2017.0,sep,USA,New York,Rockaway,UNKNOWN
+80,2017.0,sep,USA,Florida,Fort Worth,N
+81,2017.0,sep,USA,Florida,Palm Beach County,N
+82,2017.0,sep,SPAIN,Canary Islands,Gran Canaria ,N
+83,2017.0,sep,USA,Florida,"Ponce Inlet, Volusia County",N
+84,2017.0,sep,SOUTH AFRICA,Western Cape Province,Hawston,UNKNOWN
+85,2017.0,sep,SAMOA, Upolu Island,Nofoalii,N
+86,2017.0,sep,AUSTRALIA,Westerm Australia,Esperance,N
+87,2017.0,sep,USA,Florida,"Ponce Inlet, Volusia County",N
+88,2017.0,sep,AUSTRALIA,Westerm Australia,Sam's Creek area,N
+89,2017.0,sep,AUSTRALIA,New South Wales,Iluka Beach,N
+90,2017.0,sep,SOLOMON ISLANDS,,Owarigi Island,N
+91,2017.0,sep,SOUTH AFRICA,Western Cape Province,Dyer Island,Y
+92,2017.0,sep,JAPAN,Shizuoka Prefecture,Iwata City,N
+93,2017.0,sep,USA,Florida,"Marathon, Monroe County",N
+94,2017.0,sep,USA,Texas,"South Padre Island, Cameron County",N
+95,2017.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+96,2017.0,aug,AUSTRALIA,Victoria,Cathedral Rock,N
+97,2017.0,aug,USA,Florida,Bathtub Beach ,N
+98,2017.0,aug,SPAIN,Castellón,Grao de Moncofa,UNKNOWN
+99,2017.0,aug,NEW ZEALAND,North Island,Off Tutukaka,N
+100,2017.0,aug,USA,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",N
+101,2017.0,aug,BAHAMAS,,,N
+102,2017.0,aug,USA,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",N
+103,2017.0,aug,EGYPT,Red Sea Protectorate,Marsa Ghalib,N
+104,2017.0,aug,USA,Massachusetts,"Menauhant Beach, Falmouth,
+Barnstable County",N
+105,2017.0,aug,USA,California,"Between Pescadero Point & Bean Hollow Beach, San Mateo County",N
+106,2017.0,jul,USA,Florida,"Jacksonvlle, Duval County",N
+107,2017.0,jul,USA,South Carolina,"Hilton Head Island, Beaufort County",UNKNOWN
+108,2017.0,jul,USA,South Carolina,"DeBordieu Colony, Georgetown County",N
+109,2017.0,jul,BAHAMAS,New Providence District,Rose Island,N
+110,2017.0,jul,BAHAMAS,40 miles off Grand Bahama Island,,N
+111,2017.0,jul,"ST HELENA, BRITISH OVERSEAS TERRITORY",Ascension Island,English Bay,N
+112,2017.0,jul,USA,New Jersey,Ventnor,N
+113,2017.0,jul,SPAIN,Majorca,"Estanys Beach, Colonia de Sant",N
+114,2017.0,jul,USA,Florida,"Snipes Point, Monroe County",N
+115,2017.0,jul,USA,South Carolina,"Hilton Head Island, Beaufort County",UNKNOWN
+116,2017.0,jul,USA,California,"Stearns Wharf, Santa Barbara",N
+117,2017.0,jul,USA,California,"Seal Rock, Goleta Beach, Santa Barbara",N
+118,2017.0,jul,USA,Washington,"South Beach, Westport, Grays Harbor County",N
+119,2017.0,jul,AUSTRALIA,Western Australia,Floreat Beach,N
+120,2017.0,jul,USA,California,"Santa Cruz, Santa Cruz County",N
+121,2017.0,jul,USA,Florida,"Haulover Beach, Miami-Dade County",N
+122,2017.0,jul,MEXICO,Tabasco,"Sánchez Magallanes, Cárdenas",N
+123,2017.0,jul,SOUTH AFRICA,Eastern Cape Province,"Nahoon Reef, East London",N
+124,2017.0,jul,COMOROS,Anjouan,Moya,UNKNOWN
+125,2017.0,jun,USA,South Carolina,Wrightsville Beach,UNKNOWN
+126,2017.0,jun,USA,South Carolina,"South Forest Beach, Hilton Head Island, Beaufort County",N
+127,2017.0,jun,USA,Florida,"Singer Island, Palm Beach County",N
+128,2017.0,jun,USA,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",N
+129,2017.0,jun,REUNION,,Roches Noire,N
+130,2017.0,jun,SPAIN,Ibiza Island,Playa den Bossa,N
+131,2017.0,jun,FRENCH POLYNESIA,Marquesas,"Atuona Bay, Hiva Oa Island",N
+132,2017.0,jun,BAHAMAS,,,N
+133,2017.0,jun,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",N
+134,2017.0,jun,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",N
+135,2017.0,jun,USA,Florida,"Ponce Inlet, Volusia County",N
+136,2017.0,jun,UNITED KINGDOM,South Devon,Bantham Beach,N
+137,2017.0,jun,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",N
+138,2017.0,jun,BAHAMAS,New Providence ,Athol Island,N
+139,2017.0,may,USA,South Carolina,"Awendaw, Charleston County",N
+140,2017.0,may,USA,Florida,Off Jupiter,N
+141,2017.0,may,AUSTRALIA,New South Wales,Evans Head,N
+142,2017.0,may,UNITED ARAB EMIRATES,"Sharjah, ",Khor Fakkan,N
+143,2017.0,may,AUSTRALIA,Queensland,Weipa,N
+144,2017.0,may,MEXICO,Baja California Sur,"Los Arbolitos, Cabo Pulmo",Y
+145,2017.0,may,USA,California,"Sunset Beach, Orange County",UNKNOWN
+146,2017.0,apr,USA,California,"San Onofre, San Diego County ",N
+147,2017.0,apr,SOUTH AFRICA,Western Cape Province,"Keurbooms, Plettenberg Bay",N
+148,2017.0,apr,USA,South Carolina,"Folly Beach, Charleston County",N
+149,2017.0,apr,REUNION,Saint-Leu,Pointe au Sal,Y
+150,2017.0,apr,NEW ZEALAND,South Island,"Porpoise Bay, Catlins",N
+151,2017.0,apr,USA,Florida,,UNKNOWN
+152,2017.0,apr,"ST HELENA, BRITISH OVERSEAS TERRITORY",Ascension Island,English Bay,N
+153,2017.0,apr,USA,South Carolina,Georgetown County,UNKNOWN
+154,2017.0,apr,USA,Florida,"Daytona Beach, Volusia County",N
+155,2017.0,apr,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Y
+156,2017.0,apr,USA,Hawaii,"Kekaha Beach, Kauai",N
+157,2017.0,apr,USA,Florida,"Hanna Park, Jacksonville, Duval County",N
+158,2017.0,apr,USA,Florida,St. Augustine,N
+159,2017.0,apr,SOUTH AFRICA,KwaZulu-Natal,Protea Banks,UNKNOWN
+160,2017.0,apr,USA,Florida,"Ormond Beach, Volusia County",N
+161,2017.0,apr,USA,Florida,"Melbourne Beach, Brevard County",N
+162,2017.0,apr,USA,Florida,"Melbourne Beach, Brevard County",N
+163,2017.0,apr,USA,Florida,"Daytona, Volusia County",N
+164,2017.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+165,2017.0,apr,AUSTRALIA,Queensland,Moreton Bay,N
+166,2017.0,apr,USA,Florida,"Destin, Okaloosa County",N
+167,2017.0,mar,USA,Florida,"New Smyrna Beach, Volusia County",N
+168,2017.0,mar,AUSTRALIA,New South Wales,The Farm,N
+169,2017.0,mar,USA,California,Monterey Bay,N
+170,2017.0,mar,PHILIPPINES,Luzon Island,"Villamar, Caoayan",N
+171,2017.0,mar,BAHAMAS,Great Exuma,,N
+172,2017.0,feb,AUSTRALIA,Western Australia,Mauds Point,N
+173,2017.0,feb,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",N
+174,2017.0,feb,REUNION,Saint-Andre,,Y
+175,2017.0,feb,AUSTRALIA,Queensland,Eva Rock,N
+176,2017.0,feb,USA,Florida,"Melbourne Beach, Brevard County",N
+177,2017.0,feb,BRAZIL,Pernambuco,Fernando de Noronha Marine Park,N
+178,2017.0,feb,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,N
+179,2017.0,feb,USA,South Carolina,16 miles off Hilton Head,N
+180,2017.0,feb,BAHAMAS,Bimini,,N
+181,2017.0,jan,BRAZIL,Pernambuco,"Boa Viagem, Recife",N
+182,2017.0,jan,USA,Florida,"Vero Beach, Indian River County",N
+183,2017.0,jan,AUSTRALIA,Queensland,"Boot Reef, Torres Strait",N
+184,2017.0,jan,AUSTRALIA,Queensland,Clairview,N
+185,2017.0,jan,USA,Florida,Jensen Beach,N
+186,2017.0,jan,INDONESIA,Bali,Balian Beach,N
+188,2017.0,jan,USA,Florida,"Blockhouse Beach, Brevard County",N
+189,2017.0,jan,AUSTRALIA,New South Wales,Merimbula,UNKNOWN
+190,2016.0,dec,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",N
+191,2016.0,dec,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",N
+192,2016.0,dec,SOUTH AFRICA,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",N
+193,2016.0,dec,AUSTRALIA,Western Australia,Trigg Beach,N
+194,2016.0,dec,FRENCH POLYNESIA,Tuamotos,Takapoto Atoll,N
+195,2016.0,dec,USA,Florida,"New Smyrna Beach, Volusia County",UNKNOWN
+196,2016.0,dec,AUSTRALIA,New South Wales,Merimbula,N
+197,2016.0,dec,AUSTRALIA,New South Wales,Booti Booti National Park,N
+198,2016.0,nov,AUSTRALIA,Victoria,Queenscliff,N
+199,2016.0,nov,USA,Hawaii,"Kamaole Beach Park I, Maui",N
+200,2016.0,oct,USA,Florida,"Mayport Naval Station Beach, Duval County",N
+201,2016.0,oct,USA,Florida,Mayport Naval Station  Duval County,N
+202,2016.0,oct,AUSTRALIA,New South Wales,Broken Head Beach,N
+203,2016.0,oct,USA,Hawaii,"Hooipa Beach Park, Maui",N
+204,2016.0,oct,AUSTRALIA,Queensland,"Kings Beach, Caloundra",N
+205,2016.0,oct,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",N
+206,2016.0,oct,MEXICO,,Guadalupe Island,UNKNOWN
+207,2016.0,oct,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",N
+208,2016.0,oct,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",N
+209,2016.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+210,2016.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+211,2016.0,sep,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",N
+212,2016.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+213,2016.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+214,2016.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+215,2016.0,sep,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",N
+216,2016.0,sep,AUSTRALIA,Victoria,Thirteenth Beach,N
+217,2016.0,sep,AUSTRALIA,Victoria,Bells Beach,N
+218,2016.0,sep,AUSTRALIA,Western Australia,Bunbury,N
+219,2016.0,sep,USA,Florida,"Ponte Vedra, St. Johns County",N
+220,2016.0,sep,USA,Hawaii,"Makaha, Oahu",N
+221,2016.0,sep,NEW CALEDONIA,North Province,Koumac,Y
+222,2016.0,sep,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",N
+223,2016.0,sep,AUSTRALIA,Western Australia,Injidup ,N
+224,2016.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+225,2016.0,sep,USA,California,"Refugio State Beach, Santa Barbara County",N
+226,2016.0,sep,MEXICO,,Guadalupe Island,UNKNOWN
+227,2016.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+228,2016.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+229,2016.0,aug,REUNION,,Boucan Canot,N
+230,2016.0,aug,USA,Florida,"Ponte Vedra, St. Johns County",N
+231,2016.0,aug,BAHAMAS,New Providence Island,Nassau,N
+232,2016.0,aug,USA,Hawaii,Maui,N
+233,2016.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+234,2016.0,jul,SPAIN,Alicante Province,Arenales del Sol,N
+235,2016.0,jul,CHINA,Hong Kong,,N
+236,2016.0,jul,AUSTRALIA,Western Australia,Near Albany,N
+237,2016.0,jul,USA,Florida,"Florida Keys, Monroe County",N
+238,2016.0,jul,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",N
+239,2016.0,jul,JAPAN,Kochi Prefecture,Irino Beach,N
+240,2016.0,jul,AUSTRALIA,Tasmania,Clifton Beach,N
+241,2016.0,jul,BAHAMAS,Abaco Islands,Green Turtle Cay,N
+242,2016.0,jul,AUSTRALIA,Queensland,"20 k off The Spit, off the Gold Coast",N
+243,2016.0,jul,USA,Alabama,8 miles off Mobile,N
+244,2016.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+245,2016.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+246,2016.0,jul,USA,California,"Surfside, Orange County",N
+247,2016.0,jul,USA,South Carolina,"North Myrtle Beach, Horry County",N
+248,2016.0,jul,BAHAMAS,,Tiger Beach,N
+249,2016.0,jul,SPAIN,Canary Islands,"Las Teresitas, Tenerife",N
+250,2016.0,jul,USA,California,"Capitola, Santa Cruz County",N
+251,2016.0,jul,USA,Massachusetts,"Off Gloucester, Essec County",N
+252,2016.0,jul,USA,California,"Off Palos Verdes peninsula, Los Angeles County",N
+253,2016.0,jul,USA,Florida,"Melbourne Beach, Brevard County",N
+254,2016.0,jul,AUSTRALIA,Queensland,Palm Cove ,N
+255,2016.0,jun,USA,South Carolina,Sullivan's Island,N
+256,2016.0,jun,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",N
+257,2016.0,jun,COLUMBIA,Isla Provedencia,,N
+258,2016.0,jun,SOUTH AFRICA,Western Cape Province,Ryspunt,N
+259,2016.0,jun,USA,South Carolina,"North Myrtle Beach, Horry County",N
+260,2016.0,jun,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",N
+261,2016.0,jun,USA,Hawaii,"Kalapaki Beach, Kauai",N
+262,2016.0,jun,AUSTRALIA,Western Australia,Coral Bay,N
+263,2016.0,jun,USA,Texas,"Pirates Beach, Galveston",N
+264,2016.0,jun,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",N
+265,2016.0,jun,USA,South Carolina,"Folly Beach, Charleston County",UNKNOWN
+266,2016.0,jun,USA,Florida,"Flagler Beach, Flagler County",N
+267,2016.0,jun,AUSTRALIA,Western Australia,Mindarie,Y
+268,2016.0,jun,EGYPT,Suez,Ain Sokhna,N
+269,2016.0,jun,AUSTRALIA,New South Wales,Kingscliff,UNKNOWN
+270,2016.0,jun,NEW CALEDONIA,," Côte-Blanche, Nouméa ",N
+271,2016.0,may,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Y
+272,2016.0,may,USA,California,"Corona Del Mar, Newport, Orange County",N
+273,2016.0,may,USA,Florida,"Neptune, Duval County",N
+274,2016.0,may,USA,Florida,"Vero Beach, Indian River County",N
+275,2016.0,may,USA,Florida,"St. Petersburg, Pinellas County",N
+276,2016.0,may,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",N
+277,2016.0,may,USA,Florida,"Ponte Vedra, St. Johns County",N
+278,2016.0,may,USA,Florida,"Boca Raton, Palm Beach County",N
+279,2016.0,may,USA,Hawaii,"Wailea Beach, Maui",N
+280,2016.0,may,NEW ZEALAND,North Island,Cormandel,N
+281,2016.0,apr,INDONESIA,Bali,Balian,N
+282,2016.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+283,2016.0,apr,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",N
+284,2016.0,apr,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",N
+285,2016.0,apr,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,N
+286,2016.0,apr,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,N
+287,2016.0,apr,USA,Florida,"Off Singer Island, Palm Beach County",N
+288,2016.0,apr,NEW CALEDONIA,Grand Terre,Poe Beach,Y
+289,2016.0,apr,CAPE VERDE,Boa Vista Island,,UNKNOWN
+290,2016.0,apr,USA,Florida,"Florida Keys, Monroe County",N
+291,2016.0,apr,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",UNKNOWN
+292,2016.0,mar,USA,Hawaii,"Olowalu, Maui",N
+293,2016.0,mar,AUSTRALIA,New South Wales,Bombo Beach,N
+294,2016.0,mar,USA,Florida,"Fort Myers Beach, Lee County",UNKNOWN
+295,2016.0,mar,AUSTRALIA,New South Wales,North Cronulla Beach,N
+296,2016.0,mar,BAHAMAS,,,N
+297,2016.0,mar,USA,California,"Bolsa Chica State Park, Orange County",UNKNOWN
+298,2016.0,mar,USA,Florida,"Vero Beach, St. Lucie County",N
+299,2016.0,mar,FIJI,Vanua Levu,,Y
+300,2016.0,mar,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",N
+301,2016.0,mar,AUSTRALIA,South Australia,Wrights Bay,N
+302,2016.0,mar,BRAZIL,Santa Catarina State,Escalerio Beach Balneário Camboriú,N
+303,2016.0,feb,NEW CALEDONIA,South Province,"Ricaudy Reef, Noumea",N
+304,2016.0,feb,NEW CALEDONIA,South Province,Yate,N
+305,2016.0,feb,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",N
+306,2016.0,feb,CAYMAN ISLANDS,Grand Cayman,Stingray City Bar,UNKNOWN
+307,2016.0,feb,AUSTRALIA,Tasmania,Nettley Bay,UNKNOWN
+308,2016.0,feb,AUSTRALIA,Queensland,Stradbroke Island,N
+309,2016.0,feb,AUSTRALIA,New South Wales,Hams Beach,N
+310,2016.0,feb,BRAZIL,Balneário Camboriú,Estaleirinho beach,N
+311,2016.0,jan,SOUTH AFRICA,KwaZulu-Natal,,N
+312,2016.0,jan,USA,Hawaii,"Hanalei Bay, Kauai",N
+313,2016.0,jan,USA,Hawaii,"Hanalei Bay, Kauai, ",N
+314,2016.0,jan,USA,Texas,Off Surfside,N
+315,2016.0,jan,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,N
+316,2016.0,jan,USA,Hawaii,"Wailea Beach, Maui",N
+317,2016.0,jan,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",N
+318,2016.0,jan,AUSTRALIA,Queensland,Heron Island,N
+319,2016.0,jan,AUSTRALIA,Queensland,Miall Island,N
+320,2015.0,dec,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,N
+321,2015.0,dec,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",N
+322,2015.0,dec,USA,Hawaii,La'aloa Beach Park,N
+323,2015.0,dec,AUSTRALIA,New South Wales,Bondi Beach,N
+324,2015.0,dec,BRAZIL,Pernambuco,Fernano de Noronha,N
+325,2015.0,dec,ARUBA,,Boat capsized,Y
+326,2015.0,dec,AUSTRALIA,New South Wales,Lake Macquarie,N
+327,2015.0,dec,BAHAMAS,,Off Andros Island,N
+328,2015.0,dec,SOUTH AFRICA,Eastern Cape Province,Mpande,N
+329,2015.0,nov,ECUADOR,Galapagos Islands,"Punta Vicente Roca, Isabella Island",N
+330,2015.0,nov,USA,Florida,"Playalinda Beach, Brevard County",N
+331,2015.0,nov,USA,Florida,"Palm Beach, Palm Beach County",N
+332,2015.0,nov,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",N
+333,2015.0,nov,AUSTRALIA,New South Wales,East Ballina,N
+334,2015.0,nov,USA,Florida,"Paradise Beach, Melbourne, Brevard County",UNKNOWN
+335,2015.0,nov,USA,Hawaii,"Kehena Beach, Hawaii",N
+336,2015.0,nov,USA,Florida,"Cocoa Beach, Brevard  County",N
+337,2015.0,nov,MOZAMBIQUE,Inhambane Province,Maxixe,N
+338,2015.0,oct,AUSTRALIA,Western Australia,Bald Island,N
+339,2015.0,oct,USA,Hawaii,"Malaka, Oahu",N
+340,2015.0,oct,SOUTH AFRICA,Western Cape Province,Stil Bay,N
+341,2015.0,oct,USA,Florida,"Playalinda Beach, Brevard County",N
+342,2015.0,oct,USA,Florida,"Deerfield Beach, Broward County",N
+343,2015.0,oct,MOZAMBIQUE,Inhambane Province,"Nahaduga, Inhambane Bay",Y
+344,2015.0,oct,USA,Hawaii,"Waikiki, ",UNKNOWN
+345,2015.0,oct,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",N
+346,2015.0,oct,USA,California,"Off Leffingwell Landing, San Luis Obispo County",N
+347,2015.0,oct,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",N
+348,2015.0,oct,USA,Hawaii,"Leftovers, Oahu",N
+349,2015.0,oct,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",N
+350,2015.0,oct,AUSTRALIA,Western Australia,Pyramids Beach,N
+351,2015.0,oct,USA,Florida,"Pepper Park Beach, St. Lucie County",N
+352,2015.0,oct,USA,Texas,Galveston,N
+353,2015.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+354,2015.0,sep,USA,Florida,"Vilano Beach, St.  Johns County",N
+355,2015.0,sep,AUSTRALIA,Queensland,"Russel Island, Frankland Group",N
+356,2015.0,sep,USA,California,"Horseshoe Rock, Santa Barbara County",N
+357,2015.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+358,2015.0,sep,USA,Hawaii,"Upolu Point, North Kohala, Big Island",N
+359,2015.0,sep,USA,Florida,"Fernandina Beach, Amelia Island, Nassau County",N
+360,2015.0,sep,USA,Florida,"Vilano Beach, St.  Johns County",N
+361,2015.0,sep,USA,California,"Gaviota State Beach, Santa Barbara County",N
+362,2015.0,sep,USA,Florida,"Big Talbot Island, Duval County",N
+363,2015.0,sep,USA,Florida,"Jacksonville Beach, Duval County",N
+364,2015.0,sep,AUSTRALIA,New South Wales,North Shelly Beach,N
+365,2015.0,sep,USA,California,"El Pescador Beach, Los Angeles County",N
+366,2015.0,sep,USA,California,"Deer Creek Beach, Ventura County",N
+367,2015.0,sep,AUSTRALIA,New South Wales,Hallidays Point,N
+368,2015.0,sep,USA,South Carolina,"Myrtle Beach, Horry County",N
+369,2015.0,sep,THAILAND,Phuket,Karon Beach,N
+370,2015.0,sep,FIJI,,,N
+371,2015.0,aug,USA,California,"Morro Strand State Beach, San Luis Obispo County",N
+372,2015.0,aug,USA,California,"Morro Bay, San Luis Obispo County",N
+373,2015.0,aug,USA,Florida,"Cocoa Beach, Brevard  County",UNKNOWN
+374,2015.0,aug,AUSTRALIA,New South Wales,Lighthouse Beach,N
+375,2015.0,aug,USA,South Carolina,"Murrells Inlet, Georgetown County",N
+376,2015.0,aug,USA,Florida,"Jacksonville Beach, Duval County",N
+377,2015.0,aug,USA,California,Santa Barbara County,N
+378,2015.0,aug,SPAIN,Alicante,"Poniente Beach, Benidorm",UNKNOWN
+379,2015.0,aug,USA,California,Cortes Bank,N
+380,2015.0,jul,AUSTRALIA,New South Wales,Evans Head,N
+381,2015.0,jul,COSTA RICA,Guanacaste,Playa Grande,N
+382,2015.0,jul,AUSTRALIA,Victoria,Tyrendarra Beach,UNKNOWN
+383,2015.0,jul,USA,Florida,"Daytona Beach, Volusia County",N
+384,2015.0,jul,USA,South Carolina,"Edisto Beach, Colleton County",UNKNOWN
+385,2015.0,jul,AUSTRALIA,Tasmania,"Lachan Island, Mercury Passage",Y
+386,2015.0,jul,USA,California,"La Jolla, San Diego County",N
+387,2015.0,jul,AUSTRALIA,Victoria,Tyrendarra Beach near Portland,N
+388,2015.0,jul,REUNION,,St. Leu,N
+389,2015.0,jul,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,N
+390,2015.0,jul,USA,California,"Huntington Beach, Orange County",N
+391,2015.0,jul,USA,California,"Huntington Beach, Orange County",UNKNOWN
+392,2015.0,jul,FRENCH POLYNESIA,Bora Bora,,UNKNOWN
+393,2015.0,jul,BAHAMAS,Grand Bahama Island,"Port Lucaya, Freeport",N
+394,2015.0,jul,USA,North Carolina,"Off Surf City, Pender County",N
+395,2015.0,jul,AUSTRALIA,New South Wales,Lennox Head,N
+396,2015.0,jul,AUSTRALIA,New South Wales,East Ballina,N
+397,2015.0,jul,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",N
+398,2015.0,jun,AUSTRALIA,New South Wales,"Flat Rock, Yamba",N
+399,2015.0,jun,USA,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",N
+400,2015.0,jun,USA,North Carolina,"Rodanthe, Dare County",N
+401,2015.0,jun,SOUTH AFRICA,Western Cape Province,Buffels Bay near Knysna,N
+402,2015.0,jun,USA,Florida,"Jacksonville Beach, Duval County",UNKNOWN
+403,2015.0,jun,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",N
+404,2015.0,jun,USA,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",N
+405,2015.0,jun,AUSTRALIA,Western Australia,Rottnest Island,N
+406,2015.0,jun,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",N
+407,2015.0,jun,USA,North Carolina,Surf City,N
+408,2015.0,jun,AUSTRALIA,Western Australia,Denmark,N
+409,2015.0,jun,USA,South Carolina,"St. Helena Island, Beaufort County",N
+410,2015.0,jun,PUERTO RICO,,Off Cabo Rojo,N
+411,2015.0,jun,USA,Florida,Daytona Beach Shores,N
+412,2015.0,jun,USA,North Carolina,"Oak Island, Brunswick County",N
+413,2015.0,jun,USA,North Carolina,"Oak Island, Brunswick County",N
+414,2015.0,jun,USA,California,Off San Diego,N
+415,2015.0,jun,USA,North Carolina,"Ocean Isle, Brunswick County",N
+416,2015.0,jun,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",N
+417,2015.0,jun,USA,Florida,Fort Lauderdale,N
+418,2015.0,jun,REUNION,Le Port,Folette,N
+419,2015.0,may,USA,Florida,"Cocoa Beach, Brevard  County",N
+420,2015.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+421,2015.0,may,FRENCH POLYNESIA,Rangiroa,Avatoru Pass,N
+422,2015.0,may,USA,Florida,"Cocoa Beach, Brevard  County",N
+423,2015.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+424,2015.0,may,USA,South Carolina,Sullivan's Island,N
+425,2015.0,may,NEW CALEDONIA,,Kouare ,Y
+426,2015.0,may,USA,Florida,"Cocoa Beach, Brevard  County",N
+427,2015.0,may,AUSTRALIA,New South Wales,Saltwater Beach,N
+428,2015.0,may,SOUTH AFRICA,Eastern Cape Province,Port St. John's,N
+429,2015.0,apr,USA,Hawaii,Kanahena Cove ,Y
+430,2015.0,apr,USA,Florida,"Resident's Beach, Marco Island",N
+431,2015.0,apr,AUSTRALIA,South Australia,Fishery Bay,N
+432,2015.0,jun,AUSTRALIA,New South Wales,"Belongil Beach, Byron Bay",N
+433,2015.0,apr,USA,Florida,"Florida Keys, Monroe County",N
+434,2015.0,apr,REUNION,Saint-Gilles-les-Bains,Cap Homard,Y
+435,2015.0,apr,AUSTRALIA,New South Wales,McKenzies Beach,N
+436,2015.0,apr,USA,Florida,"3 miles off Jupiter, Palm Beach County",N
+437,2015.0,mar,ITALY,Sardinia,,UNKNOWN
+438,2015.0,mar,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",UNKNOWN
+439,2015.0,mar,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,N
+440,2015.0,mar,EGYPT,,Marsa Alam,Y
+441,2015.0,mar,USA,Hawaii,Hapuna Beach,N
+442,2015.0,mar,FRENCH POLYNESIA,Bora Bora,Anau,N
+443,2015.0,mar,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",N
+444,2015.0,mar,MEXICO,Sinaloa,Mazlatan,N
+445,2015.0,mar,FRENCH POLYNESIA,Central Tuamotu,"Tupapati, Hikueru Atoll",N
+446,2015.0,feb,ATLANTIC OCEAN,,,N
+447,2015.0,feb,REUNION,dÉtang-Salé,Ravine Mula,Y
+448,2015.0,feb,AUSTRALIA,New South Wales,Shelly Beach,Y
+449,2015.0,feb,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",N
+450,2015.0,feb,AUSTRALIA,New South Wales,Mereweather Beach,N
+451,2015.0,jan,AUSTRALIA,Queensland,"Nerang River, Surfer's  Paradise",N
+452,2015.0,jan,USA,Hawaii,Lahaina,N
+453,2015.0,jan,AUSTRALIA,New South Wales,Flat Rock,N
+454,2015.0,jan,SOUTH AFRICA,Eastern Cape Province,Nahoon Beach,N
+455,2015.0,jan,USA,Florida,Off Panama City,N
+456,2015.0,jan,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",UNKNOWN
+457,2015.0,jan,AUSTRALIA,New South Wales,Off Blacksmith Beach,N
+458,2015.0,jan,AUSTRALIA,New South Wales,"Mollymook Beach, Bannister Head",N
+459,2015.0,jan,USA,Florida,,UNKNOWN
+460,2015.0,jan,BAHAMAS,Abaco Islands,"Tahiti Beach, Elbow Cay",N
+461,2015.0,jan,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,N
+462,2015.0,jan,USA,Florida,"Windsor Beach, Indian River County",N
+463,2014.0,dec,AUSTRALIA,New South Wales,Bherwerre Beach,N
+464,2014.0,dec,AUSTRALIA,Western Australia,Three Stripes near Cheynes Beach,Y
+465,2014.0,dec,GREECE,,33 nautical miles off Othonoi Island,N
+466,2014.0,dec,SOUTH AFRICA,KwaZulu-Natal,Durban,UNKNOWN
+467,2014.0,dec,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",N
+468,2014.0,dec,AUSTRALIA,Victoria,Paradise Beach,N
+469,2014.0,dec,JAPAN,,,N
+470,2014.0,dec,AUSTRALIA,Queensland,Rudder Reef,Y
+471,2014.0,dec,SPAIN,Granada,Off Motril,N
+472,2014.0,nov,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",N
+473,2014.0,nov,MAURITIUS,Cargados Carajos Shoals (St. Brandon),,Y
+474,2014.0,nov,AUSTRALIA,Western Australia,Freo,N
+475,2014.0,nov,USA,California,"Franklin Point, San Mateo County",N
+476,2014.0,nov,USA,Florida,"Indian Harbor Beach, Brevard County",N
+477,2014.0,nov,USA,Hawaii,"Airplane Beach, Lahina, West Maui",N
+478,2014.0,nov,AUSTRALIA,New South Wales,Moonee Beach,N
+479,2014.0,nov,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",N
+480,2014.0,oct,USA,Hawaii,"North Kohala, Hawaii County",N
+481,2014.0,oct,AUSTRALIA,New South Wales,Wallabi Point,N
+482,2014.0,oct,USA,Hawaii,"Kihei, Maui",N
+483,2014.0,oct,USA,Hawaii,"Kahului, Maui",N
+484,2014.0,oct,USA,California,"Leadbetter Beach, Santa Barbara County",N
+485,2014.0,oct,USA,Hawaii,"Maalaea, South Maui",N
+486,2014.0,oct,AUSTRALIA,New South Wales,Avoca Beach,N
+487,2014.0,oct,USA,South Carolina,"Hilton Head Island, Beaufort County",N
+488,2014.0,oct,USA,Florida,"Melbourne Beach, Brevard County",N
+489,2014.0,oct,AUSTRALIA,Western Australia,"Castle Rock, north of Dunsborough",N
+490,2014.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+491,2014.0,oct,USA,Florida,"Cherie Down Park, Brevard County",N
+492,2014.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+493,2014.0,oct,USA,California,Santa Barbara County,N
+494,2014.0,oct,USA,California,Santa Barbara County,N
+495,2014.0,oct,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",N
+496,2014.0,oct,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",N
+497,2014.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+498,2014.0,sep,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,N
+499,2014.0,sep,USA,California,"Manresa State Beach, Santa Cruz County",UNKNOWN
+500,2014.0,sep,AUSTRALIA,New South Wales,"Clarkes Beach, Byron Bay",Y
+501,2014.0,sep,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",N
+502,2014.0,sep,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",N
+503,2014.0,sep,USA,Florida,"Fletcher Beach, Hutchinson Island, Martin County",N
+504,2014.0,sep,SPAIN,Catalonia,Salou,N
+505,2014.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+506,2014.0,aug,USA,Florida,"Ponce Inlet, Volusia County",N
+507,2014.0,aug,USA,Florida,"Atlantic Beach, Duval County",UNKNOWN
+508,2014.0,aug,USA,Maryland,Assateague National Seashore,N
+509,2014.0,aug,SPAIN,Alicante,Benidorm,N
+510,2014.0,aug,USA,North Carolina,"Figure Eight Island,  New Hanover County",N
+511,2014.0,aug,USA,South Carolina,"Surfside Beach, Horry  County",N
+512,2014.0,aug,USA,Florida,Apalachicola Bay ,N
+513,2014.0,aug,USA,North Carolina,"Off Masonboro Island, New Hanover County",N
+514,2014.0,aug,AUSTRALIA,Western Australia,Gnaraloo,N
+515,2014.0,aug,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",N
+516,2014.0,aug,USA,Florida,"Hallandale Beach, Broward County",N
+517,2014.0,aug,BAHAMAS,,,N
+518,2014.0,aug,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",N
+519,2014.0,aug,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",N
+520,2014.0,aug,USA,South Carolina,"Folly Beach, Charleston County",N
+521,2014.0,aug,USA,Florida,"Cocoa Beach, Brevard  County",N
+522,2014.0,aug,USA,Florida,"South of Cocoa Beach, Brevard County",N
+523,2014.0,aug,USA,Florida,"Table Beach, Brevard County",N
+524,2014.0,aug,SOUTH AFRICA,Western Cape Province,Muizenberg,N
+526,2014.0,jul,USA,North Carolina,"Sunset Beach, Brunswick County",N
+527,2014.0,jul,REUNION,Saint-Leu,,N
+528,2014.0,jul,USA,Florida,"Indialantic, Brevard County",N
+529,2014.0,jul,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",N
+530,2014.0,jul,USA,Hawaii,"Paia Bay, Maui",N
+531,2014.0,jul,USA,Florida,Okaloosa Island,N
+532,2014.0,jul,BAHAMAS,West End,Tiger Beach,UNKNOWN
+533,2014.0,jul,USA,North Carolina,"Masonboro Island, New Hanover County",N
+534,2014.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+535,2014.0,jul,USA,California,"Manhattan Beach, Los Angeles County",N
+536,2014.0,jul,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",N
+537,2014.0,jul,USA,South Carolina,"Isle of Palms, Charleston County",N
+538,2014.0,jun,ST. MARTIN,,20 miles from shore,N
+539,2014.0,jun,BAHAMAS,Abaco Islands,,N
+540,2014.0,jun,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",N
+541,2014.0,jun,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",N
+542,2014.0,jun,AUSTRALIA,Western Australia,Horizontal Falls,N
+543,2014.0,jun,BRAZIL,,500 km off the coast of Pernambuco,N
+544,2014.0,jun,USA,Delaware,"Cape Henlopen State Park, Sussex County",N
+545,2014.0,jun,AUSTRALIA,South Australia,"Parsons Beach,  Fleurieu Peninsula",N
+546,2014.0,jun,JAPAN,Atsumi peninsula,Aichi,N
+547,2014.0,jun,USA,Texas,"West Beach, Galveston",N
+548,2014.0,jun,USA,Florida,Fort Lauderdale,N
+549,2014.0,jun,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",N
+550,2014.0,jun,USA,Palmyra Atoll,,N
+551,2014.0,may,AUSTRALIA,Queensland,Nerang River near Chevron Island,N
+552,2014.0,may,FRANCE,Wallis and Futuna,Wallis Island,N
+553,2014.0,may,AUSTRALIA,New South Wales,The Australian Shark and Ray Centre,N
+554,2014.0,may,USA,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",N
+555,2014.0,may,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",N
+556,2014.0,may,USA,Florida,"Jacksonville Beach, Duval County",N
+557,2014.0,may,USA,Georgia,"Tybee Island, Chatham County",N
+558,2014.0,may,USA,Florida,"Bethel Shoals, Indian River County",UNKNOWN
+559,2014.0,may,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",N
+560,2014.0,may,SOUTH AFRICA,Western Cape Province,Simonstown,N
+561,2014.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+562,2014.0,apr,AUSTRALIA,Western Australia,"South Passage, south of Coral Bay",N
+563,2014.0,apr,USA,Florida,"Cocoa Beach, Brevard  County",N
+564,2014.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+565,2014.0,apr,SOUTH AFRICA,,,N
+566,2014.0,apr,SOUTH AFRICA,Eastern Cape Province,Port Alfred,N
+567,2014.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+568,2014.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+569,2014.0,apr,AUSTRALIA,New South Wales,Tathra,Y
+570,2014.0,mar,AUSTRALIA,Western Australia,Off Dawesville Cut,UNKNOWN
+571,2014.0,mar,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St Johns",Y
+572,2014.0,mar,USA,Florida,Delray Beach,N
+573,2014.0,mar,USA,Florida,Macarthur State Park,N
+574,2014.0,mar,NEW CALEDONIA,Baie de Sainte-Marie,,N
+575,2014.0,mar,AUSTRALIA,Victoria,Winkipop Beach,N
+576,2014.0,mar,AUSTRALIA,New South Wales,Lennox Head,UNKNOWN
+577,2014.0,mar,AUSTRALIA,New South Wales,Lighthouse Beach,N
+578,2014.0,mar,CAYMAN ISLANDS,,,UNKNOWN
+579,2014.0,mar,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",N
+580,2014.0,feb,FRENCH POLYNESIA,Society Islands,Huahine,N
+581,2014.0,feb,PAPUA NEW GUINEA,,,N
+582,2014.0,feb,AUSTRALIA,South Australia,"Goldsmith Beach, Yorke Peninsula",Y
+583,2014.0,feb,TRINIDAD & TOBAGO,Trinidad,,N
+584,2014.0,feb,NEW ZEALAND,South Island,Porpoise Bay,N
+585,2014.0,jan,AUSTRALIA,New South Wales,Umina Beach,N
+586,2014.0,jan,NEW ZEALAND,South Island,Garden Bay near Cosy Nook,N
+587,2014.0,jan,JAPAN,Okinawa Prefecture,Off Miyako Island,N
+588,2014.0,UNKNOWN,USA,Hawaii,,N
+589,2014.0,UNKNOWN,NEW ZEALAND,,Stewart Island,N
+590,2013.0,dec,NEW CALEDONIA,North Province,"Lindéralique, Hienghène",N
+591,2013.0,dec,SOUTH AFRICA,Western Cape Province,Die Platt,N
+592,2013.0,dec,KIRIBATI,740 miles SE of Tarawa Atoll,,N
+593,2013.0,dec,USA,Hawaii,"Ninole Bay, Hawaii County",N
+594,2013.0,dec,USA,Florida,"Cocoa Beach, Brevard  County",N
+595,2013.0,dec,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",N
+596,2013.0,dec,USA,Hawaii,"Between  Makena & Molokini, Maui",Y
+597,2013.0,nov,AUSTRALIA,New South Wales,"Riecks Point,  Campbells Beach, ",Y
+598,2013.0,nov,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",N
+599,2013.0,nov,AUSTRALIA,Western Australia,Gracetown,Y
+600,2013.0,nov,USA,Oregon,"Gleneden Beach, Lincoln County",N
+601,2013.0,nov,AUSTRALIA,Western Australia,"Trigg Beach, Perth",N
+602,2013.0,nov,BAHAMAS,,Off Cape Eleuthera,N
+603,2013.0,nov,USA,New Jersey,"Bay Head, Ocean County",N
+604,2013.0,nov,USA,Florida,"Floridana Beach, Brevard County",N
+605,2013.0,oct,USA,Hawaii,"Kanaha Beach, Maui",N
+606,2013.0,oct,AUSTRALIA,Western Australia,Turquoise Bay,N
+607,2013.0,oct,REUNION,dÉtang-Salé,Ravine Mula,N
+608,2013.0,oct,AUSTRALIA,Western Australia,"Little Island, near Hillarys",N
+609,2013.0,oct,AUSTRALIA,New South Wales,South Narrabeen Beach,N
+610,2013.0,oct,USA,Hawaii,"Waiehu, Maui",N
+611,2013.0,oct,USA,Hawaii,"Pila'a Beach, Kaua'i",N
+612,2013.0,oct,USA,Florida,Miami Beach,N
+613,2013.0,oct,SOUTH AFRICA,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Y
+614,2013.0,oct,AUSTRALIA,Western Australia,"Off Poison Creek, Cape Arid",N
+615,2013.0,oct,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",N
+616,2013.0,oct,USA,Florida,"Destin, Okaloosa County",N
+617,2013.0,sep,USA,Florida,"Melbourne Beach, Brevard County",N
+618,2013.0,sep,ISRAEL,Southern District,Ashdod,N
+619,2013.0,sep,USA,Florida,"Panama City, Bay County",N
+620,2013.0,sep,USA,Florida,"Ormond Beach, Volusia County",N
+621,2013.0,sep,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",N
+622,2013.0,sep,USA,Florida,"Casino Beach, Pensacola, Escambia County",N
+623,2013.0,sep,USA,Florida,"New Smyrna Beach,  Volusia County",N
+624,2013.0,sep,USA,South Carolina,"St. Helena Island, Beaufort County",UNKNOWN
+625,2013.0,sep,USA,Florida,"New Smyrna Beach,  Volusia County",N
+626,2013.0,sep,USA,Florida,"New Smyrna Beach,  Volusia County",N
+627,2013.0,sep,USA,Florida,"Ormond Beach, Volusia County",N
+628,2013.0,sep,USA,Florida,Key West Aquarium,N
+629,2013.0,sep,BAHAMAS,,,N
+630,2013.0,sep,USA,Florida,"St Augustine Beach, St Johns County",N
+631,2013.0,aug,BAHAMAS,,Freetown Beach,N
+632,2013.0,aug,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",N
+633,2013.0,aug,USA,California,Catalina Channel,UNKNOWN
+634,2013.0,aug,FRANCE,Bay of Biscay,,N
+635,2013.0,aug,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",N
+636,2013.0,aug,AUSTRALIA,New South Wales,Smiths,N
+637,2013.0,aug,USA,Hawaii,Pohoiki ,N
+638,2013.0,aug,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",N
+639,2013.0,aug,USA,Hawaii,"Makenat, Maui",Y
+640,2013.0,aug,USA,Hawaii,"Ka'a Point, Maui",N
+641,2013.0,aug,USA,South Carolina,Folly Beach,N
+642,2013.0,aug,SOUTH AFRICA,,,N
+643,2013.0,aug,USA,Florida,"Sanibel Island, Lee County",N
+644,2013.0,jul,USA,Hawaii,"Ulua Beach, Maui",N
+645,2013.0,jul,USA,South Carolina,"Isle of Palms, Charleston County",N
+646,2013.0,jul,BAHAMAS,Abaco Islands,Scotland Cay,N
+647,2013.0,jul,MEXICO,Quintana Roo,,N
+648,2013.0,jul,USA,Hawaii,"White Plains Beach, Oahu",N
+649,2013.0,jul,BAHAMAS,Exuma Islands,Compass Cay,N
+650,2013.0,jul,BAHAMAS,Abaco Islands,Grand Cay,N
+651,2013.0,jul,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Y
+652,2013.0,jul,USA,Alabama,"Gulf Shores, Baldwin County",N
+653,2013.0,jul,USA,Florida,"Butler Beach, St Augustine,       St. Johns County",N
+654,2013.0,jul,REUNION,Saint-Paul,Le cimetière marin,Y
+655,2013.0,jul,DIEGO GARCIA,,,Y
+656,2013.0,jul,USA,North Carolina,Holden Beach. Brunswick County,N
+657,2013.0,jul,SPAIN,Catalonia,"Sant Marti dEmpuries Beach, LEscala",UNKNOWN
+658,2013.0,jul,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",N
+659,2013.0,jun,TAIWAN,Taitung ,,N
+660,2013.0,jun,JAMAICA,Kingston Parish,Port Royal,UNKNOWN
+661,2013.0,jun,USA,California,"Pacific State , San Mateo County",N
+662,2013.0,jun,USA,Florida,"Jacksonville, Duval County",N
+663,2013.0,jun,USA,South Carolina,"Kiawah Island, Charleston County",N
+664,2013.0,jun,USA,Hawaii,Kona Coast State Park,N
+665,2013.0,jun,USA,Texas,"Surfside Beach, Brazoria County",N
+666,2013.0,jun,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,N
+667,2013.0,jun,USA,Florida,"Atlantic Beach, Duval County",N
+668,2013.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+669,2013.0,jun,USA,Florida,"Off Snipe Point, Florida Keys, Monroe County",N
+670,2013.0,jun,AUSTRALIA,New South Wales,Target Beach,N
+671,2013.0,may,USA,Hawaii,"Halewia, Oahu",N
+672,2013.0,may,USA,Florida,"Ormond Beach, Volusia County",N
+673,2013.0,may,BRAZIL,Pernambuco,Coral Cove Beach,Y
+674,2013.0,may,PALESTINIAN TERRITORIES,,Gaza,N
+675,2013.0,may,ECUADOR,Santa Cruz Island,"Playa Brava, Turtle Bay",N
+676,2013.0,may,USA,California,"Tourmaline Surf Park, San Diego County",UNKNOWN
+677,2013.0,may,REUNION,Saint-Gilles,Brisant Beach,Y
+678,2013.0,may,USA,Florida,"Melbourne Beach, Brevard County",N
+679,2013.0,apr,AUSTRALIA,New South Wales,Emerald Beach,N
+680,2013.0,apr,MEXICO,Quintana Roo,"Seagull Beach, Cancun",N
+681,2013.0,apr,AUSTRALIA,New South Wales,Crowdy Head,N
+682,2013.0,apr,USA,Florida,"Near Boynton Beach, Palm Beach County",N
+683,2013.0,apr,SOUTH AFRICA,Western Cape Province,False Bay,N
+684,2013.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+685,2013.0,apr,GUAM,,,Y
+686,2013.0,apr,FRENCH POLYNESIA,Tuamotus,"North Pass, Fakarava",N
+687,2013.0,apr,USA,Florida,"Jensen Beach, Martin County ",N
+688,2013.0,apr,AUSTRALIA,Western Australia,Perth,UNKNOWN
+689,2013.0,apr,USA,Hawaii,Kaanapali Shores,N
+690,2013.0,mar,AUSTRALIA,New South Wales,Terrigal Beach,UNKNOWN
+691,2013.0,mar,SEYCHELLES,,Ile Platte,N
+692,2013.0,mar,BELIZE,,,N
+693,2013.0,mar,BAHAMAS,Eleuthera,Savannah Sound,N
+694,2013.0,mar,SOUTH AFRICA,Western Cape Province,De Mond,N
+695,2013.0,mar,SOUTH AFRICA,Western Cape Province,Hawston Beach,N
+696,2013.0,mar,JAMAICA,St. Catherine,Pillikin Red Light area ,Y
+697,2013.0,mar,AUSTRALIA,Western Australia,African Reef off Geraldton,N
+698,2013.0,mar,PHILIPPINES,Palawan,Off Likas Island,N
+699,2013.0,mar,SOUTH AFRICA,Eastern Cape Province,Port St. John's,N
+700,2013.0,feb,NEW ZEALAND,North Island,Muriwai,Y
+701,2013.0,feb,USA,Hawaii,"Ka'anapali, Honokowai, Maui",N
+702,2013.0,feb,USA,Hawaii,"Paia Bay, Maui",N
+703,2013.0,feb,USA,Florida,"""Stuart Rocks"", Martin County",N
+704,2013.0,feb,FRENCH POLYNESIA,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",N
+705,2013.0,feb,JAMAICA,Kingston Parish,Pedro Cays,N
+706,2013.0,jan,AUSTRALIA,Victoria,Cape Nelson,N
+707,2013.0,jan,AUSTRALIA,Queensland,Noosa,N
+708,2013.0,jan,AUSTRALIA,Queensland,Bullcock Beach,UNKNOWN
+709,2013.0,jan,USA,Hawaii,Kiholo Bay,N
+710,2013.0,jan,NEW ZEALAND,Mercury Islands,Great Mercury Island,N
+711,2013.0,jan,AUSTRALIA,Western Australia,Near Legendre Island,N
+712,2012.0,dec,USA,Florida,"Jensen Beach, Martin County ",N
+713,2012.0,dec,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,N
+714,2012.0,dec,AUSTRALIA,New South Wales,"Kylie's Beach, Diamond Head",N
+715,2012.0,dec,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Y
+716,2012.0,dec,AUSTRALIA,Western Australia,Trigg Beach,N
+717,2012.0,dec,USA,Hawaii,Kauai,N
+718,2012.0,dec,AUSTRALIA,New South Wales,Green Island,N
+719,2012.0,dec,NEW ZEALAND,South Island,"Sunday Cove, Fiordland",N
+720,2012.0,nov,USA,Hawaii,"Kihei, Maui",N
+721,2012.0,nov,AUSTRALIA,Queensland,Mooloolaba,UNKNOWN
+722,2012.0,nov,MEXICO,Sinaloa,Nuevo Altata,Y
+723,2012.0,nov,USA,Florida,"Melbourne Beach, Brevard County",N
+724,2012.0,nov,USA,Hawaii,"Makena Landing, Maui",N
+725,2012.0,nov,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",N
+726,2012.0,oct,USA,California,"Humboldt Bay, Eureka, Humboldt County",N
+727,2012.0,oct,USA,Hawaii,"Makena Landing, Maui",N
+728,2012.0,oct,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Y
+729,2012.0,oct,USA,Florida,"Seaport, Brevard County",N
+730,2012.0,oct,USA,Florida,"Ponce Inlet, Volusia County",N
+731,2012.0,oct,USA,Hawaii,"Kanaha Beach, Maui",N
+732,2012.0,oct,USA,Florida,Hobe Sound,UNKNOWN
+733,2012.0,oct,NIGERIA,Delta,Oboro,N
+734,2012.0,oct,USA,California,"Davenport Landing, Santa Cruz County",N
+735,2012.0,oct,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",N
+736,2012.0,sep,USA,Florida,"Melbourne Beach, Brevard County",N
+737,2012.0,sep,USA,Florida,"Spanish House Beach, Brevard County",N
+738,2012.0,sep,USA,Florida," Cocoa Beach, Brevard  County",N
+739,2012.0,sep,TONGA,Vava'u,Eueiki Island,N
+740,2012.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+741,2012.0,sep,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",N
+742,2012.0,sep,USA,Florida,"South Beach, Miami-Dade County",N
+743,2012.0,sep,USA,Florida,"Neptune Beach, Duval County",N
+744,2012.0,sep,USA,Florida,"St. Augustine Beach, St. John's County",N
+745,2012.0,sep,USA,Florida,"Melbourne Beach, Brevard County",N
+746,2012.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+747,2012.0,sep,USA,Hawaii,"Spreckelsville, Maui",N
+748,2012.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+749,2012.0,aug,SCOTLAND,Inner Hebrides,Off the Isle of Islay,N
+750,2012.0,aug,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,N
+751,2012.0,aug,BRAZIL,Pernambuco,"Coral Cove, Cabo de Santo Agostinho",Y
+752,2012.0,aug,USA,Alabama,"Gulf Shores, Baldwin County",N
+753,2012.0,aug,AUSTRALIA,Western Australia,Ocean Reef,N
+754,2012.0,aug,USA,Florida,Key Largo,N
+755,2012.0,aug,REUNION,Saint Leu,,N
+756,2012.0,aug,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,N
+757,2012.0,jul,USA,California,"Topanga Beach, Los Angeles County",N
+758,2012.0,jul,AUSTRALIA,South Australia,Streaky Bay,N
+759,2012.0,jul,USA,Hawaii,"Mahaulepu Beach, Kauai",N
+760,2012.0,jul,USA,Massachusetts,"Ballston Beach, Truro, Cape Cod",N
+761,2012.0,jul,USA,North Carolina,"Ocean Isle, Brunswick County",UNKNOWN
+762,2012.0,jul,REUNION,Trois-Bassins,,Y
+763,2012.0,jul,TRINIDAD & TOBAGO,Trinidad,"Off Radix Village, Mayoro County",UNKNOWN
+764,2012.0,jul,CANADA,British Colombia,"Tofino, Vancouver",UNKNOWN
+765,2012.0,jul,AUSTRALIA,Western Australia,Off Wedge Island,Y
+766,2012.0,jul,USA,North Carolina,"North Topsail Beach, Onslow County",N
+767,2012.0,uly,BAHAMAS,Eleuthera,,N
+768,2012.0,jul,AUSTRALIA,Victoria,Ship's Graveyard off Point Lonsdale,UNKNOWN
+769,2012.0,jul,USA,California,"Pleasure Point, Santa Cruz County",N
+770,2012.0,jul,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",N
+771,2012.0,jun,CROATIA,,Buccari Bay,UNKNOWN
+772,2012.0,jun,USA,Florida,"Juno Beach, Palm Beach County",N
+773,2012.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+774,2012.0,jun,USA,Hawaii,"Kahana Beach, Maui",N
+775,2012.0,jun,AUSTRALIA,Tasmania,South Cape Bay,N
+776,2012.0,jun,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",N
+777,2012.0,jun,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",N
+778,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",UNKNOWN
+779,2012.0,jun,USA,North Carolina,"Ocean Isle, Brunswick County",N
+780,2012.0,jun,USA,Florida,"Summerland Key, Monroe County",N
+781,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+782,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+783,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+784,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+785,2012.0,jun,AUSTRALIA,Victoria,Port Campbell,N
+786,2012.0,jun,ITALY,Sardinia,Muravera,N
+787,2012.0,jun,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",N
+788,2012.0,jun,USA,Florida,"Bethune Beach, Volusia County",N
+789,2012.0,jun,USA,South Carolina,"Myrtle Beach, Horry County",N
+790,2012.0,may,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",N
+791,2012.0,may,MEXICO,Guerrero," Boca de la Leña, La Unión",N
+792,2012.0,may,USA,Florida,"Jacksonville, Duval County",N
+793,2012.0,may,USA,Hawaii,"Iroquiois Point, Oahu",N
+794,2012.0,may,FIJI,,Matacucu Reef ,N
+795,2012.0,may,USA,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",N
+796,2012.0,may,USA,Florida,"Vero Beach, Indian River County",N
+797,2012.0,may,USA,California,Off Catalina Island,N
+798,2012.0,apr,USA,Florida,"Indialantic, Brevard County",N
+799,2012.0,apr,SOUTH AFRICA,Western Cape Province,Caves near Kogel Bay,Y
+800,2012.0,apr,AUSTRALIA,South Australia,"Dolphin Bay, Innes National Park",N
+801,2012.0,apr,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",N
+802,2012.0,apr,USA,Florida,"Sanibel Island, Lee County",N
+803,2012.0,mar,AUSTRALIA,Western Australia,Stratham Beach,Y
+804,2012.0,mar,USA,Florida,"New Smyrna Beach, Volusia County",N
+805,2012.0,mar,AUSTRALIA,Western Australia,Kalbarri,N
+806,2012.0,mar,AUSTRALIA,Queensland,Nobby's Beach,N
+807,2012.0,mar,USA,Florida,"Jensen Beach, Martin County ",N
+808,2012.0,mar,USA,Florida,"New Smyrna Beach, Volusia County",N
+809,2012.0,mar,USA,Florida,"New Smyrna Beach, Volusia County",N
+810,2012.0,mar,NEW ZEALAND,North Island,"Opunake, Taranake",N
+811,2012.0,mar,AUSTRALIA,Victoria,"Shipwreck Cove, Melbourne Aquarium",N
+812,2012.0,mar,REUNION,Saint-Benoit,Port de la Marine,N
+813,2012.0,mar,USA,Florida,"Playalinda Beach, Brevard County",N
+814,2012.0,mar,SAUDI ARABIA,Tabuk Province,Off Duba,UNKNOWN
+815,2012.0,mar,CHILE,Antofagasta Province,Antofagasta,N
+816,2012.0,feb,USA,Florida,"Palm Beach Inlet, Palm Beach County",N
+817,2012.0,feb,AUSTRALIA,New South Wales,Broughton Island,N
+818,2012.0,feb,SOUTH AFRICA,Western Cape Province,Strandfontein,N
+819,2012.0,feb,AUSTRALIA,Queensland,Wurtulla,N
+820,2012.0,jan,USA,Hawaii,Lanai,N
+821,2012.0,jan,AUSTRALIA,Western Australia,Coral Bay,N
+822,2012.0,jan,BAHAMAS,,Cat Island,N
+823,2012.0,jan,TAIWAN,Taitung ,Taimali,N
+824,2012.0,jan,AUSTRALIA,New South Wales,Redhead Beach,N
+825,2012.0,jan,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Y
+826,2012.0,jan,USA,Oregon,"Lincoln City, Lincoln County",N
+827,2012.0,jan,AUSTRALIA,New South Wales,North Avoca Beach,N
+828,2012.0,jan,AUSTRALIA,Queensland,Duranbah,N
+829,2011.0,dec,USA,Florida,"Jupiter, Palm Beach County",N
+830,2011.0,dec,ANTIGUA,St John's,Fort James Beach,UNKNOWN
+831,2011.0,dec,ECUADOR,Santa Elena,Barandúa Beach,N
+832,2011.0,dec,USA,Florida,New Smyrna Beach,N
+833,2011.0,dec,USA,Hawaii,"Makahuena Point, Kauai",N
+834,2011.0,dec,SOUTH AFRICA,Eastern Cape Province,"Noordhoek, Port Elizabeth",N
+835,2011.0,dec,AUSTRALIA,New South Wales,Angourie,N
+836,2011.0,dec,SOUTH AFRICA,KwaZulu-Natal,Between Sodwana & Cape Vidal,UNKNOWN
+837,2011.0,dec,AUSTRALIA,New South Wales,Maroubra,N
+838,2011.0,dec,USA,Oregon,Seaside Cove,N
+839,2011.0,dec,AUSTRALIA,Queensland,Bushy Ilet,UNKNOWN
+840,2011.0,dec,AUSTRALIA,New South Wales,Broken Head,N
+841,2011.0,nov,INDONESIA,Bali,Tabanan,N
+842,2011.0,nov,AUSTRALIA,Queensland,Peregian,N
+843,2011.0,nov,USA,California,Pigeon Point,N
+844,2011.0,nov,PAPUA NEW GUINEA,East New Britain,Pigeon Island,N
+845,2011.0,nov,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",N
+846,2011.0,nov,REUNION,Bois-Blanc ,Sainte-Rose,N
+847,2011.0,oct,USA,California,"Marina State Beach, Monterey County",N
+848,2011.0,oct,SCOTLAND,Moray,Spey Bay,N
+849,2011.0,oct,SOUTH AFRICA,KwaZulu-Natal,"uShaka Aquarium, Durban",N
+850,2011.0,oct,AUSTRALIA,Western Australia,Rottnest Island,Y
+851,2011.0,oct,USA,Oregon,"Newport, Lincoln County",N
+852,2011.0,oct,AUSTRALIA,Victoria,Elwood Beach,N
+853,2011.0,oct,USA,Florida,Cape Canaveral,N
+854,2011.0,oct,USA,Oregon,Seaside,N
+855,2011.0,oct,AUSTRALIA,Western Australia,Cottesloe Beach,Y
+856,2011.0,oct,REUNION,,Cap La Houssaye,N
+857,2011.0,oct,USA,Florida,"Santa Maria Island, Manatee County",N
+858,2011.0,oct,USA,Alabama,"Gulf Shores, Baldwin County",N
+859,2011.0,sep,USA,Puerto Rico,Hatillo Beach,UNKNOWN
+860,2011.0,sep,DOMINICAN REPUBLIC,Samaná Province,Playa Jackson ,N
+861,2011.0,sep,SOUTH AFRICA,Western Cape Province,Clovely Beach,N
+862,2011.0,sep,USA,Florida,"Santa Maria Island, Manatee County",N
+863,2011.0,sep,USA,South Carolina,"North Myrtle Beach, Horry County",N
+864,2011.0,sep,USA,Hawaii,Kauai,N
+865,2011.0,sep,REUNION,Saint-Gilles,Boucan-Canot,Y
+866,2011.0,sep,KENYA,Coast Province,"Mama Ngina Beach, Mombasa ",Y
+867,2011.0,sep,USA,Florida,New Smyrna Beach,N
+868,2011.0,sep,USA,California,"Samoa Beach, Humboldt County",N
+869,2011.0,sep,PAPUA NEW GUINEA,Central Province,"Hula, near Port Moresby",N
+870,2011.0,sep,USA,Hawaii,"Nimitz State Beach, Oahu",N
+871,2011.0,sep,AUSTRALIA,Western Australia, Bunker Bay,Y
+872,2011.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+873,2011.0,aug,USA,Florida,Crescent Beach St. Johns County,N
+874,2011.0,aug,AUSTRALIA,Queensland,Fantome Island,UNKNOWN
+875,2011.0,aug,USA,Texas,"Grass Island, Aransas County",N
+876,2011.0,aug,RUSSIA,Primorsky Krai,Slavyanka,N
+877,2011.0,aug,USA,North Carolina,"Buxton Beach, Dare County",N
+878,2011.0,aug,USA,North Carolina,Holden Beach. Brunswick County,N
+879,2011.0,aug,SOUTH AFRICA,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Y
+880,2011.0,aug,RUSSIA,"Peter the Great Bay, Khasan, Primorsky Krai (Far East)",Zheltukhin Island,N
+881,2011.0,aug,USA,North Carolina,"Kure Beach, New Hanover County",N
+882,2011.0,aug,USA,North Carolina,"Wrightsville Beach, New Hanover County",UNKNOWN
+883,2011.0,aug,RUSSIA,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Vityaz,N
+884,2011.0,aug,FRENCH POLYNESIA,Society Islands,"Teahupoo, Tahiti",N
+885,2011.0,aug,USA,Puerto Rico, Vieques,N
+886,2011.0,aug,SEYCHELLES,Praslin,Anse Lazio ,Y
+887,2011.0,aug,USA,South Carolina,"Myrtle Beach, Horry County",N
+888,2011.0,aug,USA,North Carolina,Beaufort Inlet,N
+889,2011.0,aug,SEYCHELLES,Praslin,Anse Lazio ,Y
+890,2011.0,jul,BRAZIL,Pernambuco,Praia do Pina,UNKNOWN
+891,2011.0,jul,PHILIPPINES,,,N
+892,2011.0,jul,USA,New Jersey,"Egg Harbor, Atlantic County",N
+893,2011.0,jul,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",N
+894,2011.0,jul,USA,North Carolina,"Ocracoke Island, Hyde County",N
+895,2011.0,jul,REUNION,Saint-Gilles,Brisants. ,N
+896,2011.0,jul,USA,Texas,"South Padre Island, Cameron County",N
+897,2011.0,jul,BAHAMAS,Grand Bahama Island,Off Lucaya,N
+898,2011.0,jul,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",N
+899,2011.0,jul,USA,Texas,"Mustang Island, Nueces County",N
+900,2011.0,jul,REUNION,Saint-Gilles,Roches Noires,N
+901,2011.0,jul,COLUMBIA,Sucre,"Libertad, San Onofre",N
+902,2011.0,jun,TURKS & CAICOS,Middle Caicos,Mudjin Harbor,N
+903,2011.0,jun,BRAZIL,Pernambuco,Praia do Pina,N
+904,2011.0,jun,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,N
+905,2011.0,jun,USA,North Carolina,"North Topsail Beach, Onslow County",N
+906,2011.0,jun,USA,California,"San Onofre State Beach, San Diego County",N
+907,2011.0,jun,USA,Florida,"Perdido Key, Escambia County",N
+908,2011.0,jun,TURKS & CAICOS,Caicos Bank,French Cay,N
+909,2011.0,jun,COSTA RICA,Guanacaste,Playa Grande,Y
+910,2011.0,jun,REUNION,Saint-Gilles-les-Bains,Boucan-Canot,Y
+911,2011.0,jun,UNITED KINGDOM,Cornwall,St. Ives,N
+912,2011.0,jun,USA,Florida,"Off Jupiter Inlet, Palm Beach County",N
+913,2011.0,jun,COLUMBIA,San Andrés archipelago,Albuquerque Cay,N
+914,2011.0,jun,USA,California,"La Jolla, San Diego County",N
+915,2011.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+916,2011.0,jun,MALAYSIA,Kedah,Palau Payar,N
+917,2011.0,may,USA,Texas,"Follett's Island, Brazoria County",N
+918,2011.0,may,SOUTH AFRICA,Western Cape Province,Robberg Beach,N
+919,2011.0,may,USA,Hawaii,"Lyman Beach, Kailua-Kona",N
+920,2011.0,may,USA,Hawaii,"Lyman Beach, Kailua-Kona",N
+921,2011.0,may,SOUTH AFRICA,KwaZulu-Natal,Levan Point,Y
+922,2011.0,may,USA,Florida,"Ponte Vedra Beach, St Johns County",N
+923,2011.0,may,NEW CALEDONIA,North Province,Kendec,Y
+924,2011.0,may,USA,Florida,"Ormond Beach, Volusia County",N
+925,2011.0,may,USA,Florida,Miami,N
+926,2011.0,may,UNITED ARAB EMIRATES (UAE),Umm al Qaywayan Province,Khor Fakkan ,UNKNOWN
+927,2011.0,may,SOUTH AFRICA,KwaZulu-Natal,Palm Beach,N
+928,2011.0,apr,USA,Florida,"Riviera Beach, Palm Beach County",N
+929,2011.0,apr,AUSTRALIA,Western Australia,Red Bluffs,N
+930,2011.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+931,2011.0,apr,NEW ZEALAND,South Island,Snapper Point,N
+932,2011.0,apr,INDONESIA,Bali,Balian,N
+933,2011.0,apr,FIJI,Vitu Levu,"Malake Island, Ra Province",N
+934,2011.0,mar,USA,Texas,Matagorda Beach,N
+935,2011.0,mar,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",N
+936,2011.0,mar,AUSTRALIA,New South Wales,Crowdy Head,N
+937,2011.0,mar,MEXICO,Quintana Roo,,N
+938,2011.0,mar,FIJI,,Nukudamu ,N
+939,2011.0,mar,AUSTRALIA,New South Wales,"Jimmys Beach, Port Stephens",N
+940,2011.0,mar,EGYPT,South Sinai Peninsula,Sharm-el-Sheikh,UNKNOWN
+941,2011.0,mar,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",N
+942,2011.0,feb,AUSTRALIA,Queensland,Between ,N
+943,2011.0,feb,NEW CALEDONIA, Loyalty Islands,"Bay of Bweedro, Ouvéa",N
+944,2011.0,feb,REUNION,Saint Gilles ,Trois-Roches,N
+945,2011.0,feb,AUSTRALIA,South Australia,Off Perforated Island near Coffin Bay,Y
+946,2011.0,feb,AUSTRALIA,Queensland,Sunshine Beach,N
+947,2011.0,feb,AUSTRALIA,Western Australia,Exmouth,N
+948,2011.0,feb,MEXICO,Colima,"Manzanillo, Revillagigedo Islands",N
+949,2011.0,feb,SOUTH AFRICA,Eastern Cape Province,"Sundays River Mouth, Port Elizabeth",N
+950,2011.0,jan,MEXICO,Quintana Roo,Cancun,N
+951,2011.0,jan,MEXICO,Colima,Revillagigedo Islands,N
+952,2011.0,jan,BAHAMAS,West End,Tiger Beach,N
+953,2011.0,jan,AUSTRALIA,New South Wales,Cudgen Creek ,UNKNOWN
+954,2011.0,jan,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Y
+955,2011.0,jan,MEXICO,Quintana Roo,Xcalak ,N
+956,2011.0,jan,AUSTRALIA,Western Australia,Busselton,N
+957,2010.0,dec,USA,Hawaii," Kahului, Maui",N
+958,2010.0,dec,FIJI,Vitu Levu,Sigatoka,N
+959,2010.0,dec,USA,Hawaii,"Tavares Bay, Maui",N
+960,2010.0,dec,EGYPT,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh",Y
+961,2010.0,dec,INDONESIA,Bali,Balian,N
+962,2010.0,dec,EGYPT,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",N
+963,2010.0,dec,EGYPT,South Sinai Peninsula,"Ras Nasrani, Sharm el-Sheikh",N
+964,2010.0,nov,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",N
+965,2010.0,nov,EGYPT,South Sinai Peninsula,"Coral Bay, Sharm el-Sheikh",N
+966,2010.0,nov,SAMOA,,,N
+967,2010.0,nov,AUSTRALIA,Western Australia,Native Dog Beach,UNKNOWN
+968,2010.0,nov,USA,Palmyra Atoll,,N
+969,2010.0,nov,DOMINICAN REPUBLIC,,Boca Chica,Y
+970,2010.0,nov,INDONESIA,Bali,Balian,N
+971,2010.0,nov,AUSTRALIA,Western Australia,Between Carnac and Garden Islands,N
+972,2010.0,oct,AUSTRALIA,Western Australia,Off Garden Island,N
+973,2010.0,oct,AUSTRALIA,Western Australia,Cheynes Beach,N
+974,2010.0,oct,USA,Oregon,Florence,N
+975,2010.0,oct,AZORES,,350 miles from Faial Island,N
+976,2010.0,oct,USA,Maine,"Burnt Cove near Eastport, Washington County",N
+977,2010.0,oct,AUSTRALIA,Western Australia,Wedge Island,N
+978,2010.0,oct,USA,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Y
+979,2010.0,oct,EGYPT,South Sinai Peninsula,Sharm el-Sheikh ,N
+980,2010.0,oct,AUSTRALIA,New South Wales,Mullaway Headland,N
+981,2010.0,oct,BAHAMAS,Exuma Islands,,N
+982,2010.0,oct,BAHAMAS,Abaco Islands,Elbow Cay,N
+983,2010.0,oct,SOUTH AFRICA,Western Cape Province,"Melkbaai, Strand",N
+984,2010.0,sep,USA,Oregon,Winchester Bay,N
+985,2010.0,sep,USA,Virginia,Sandridge Beach,N
+986,2010.0,sep,SOUTH AFRICA,Western Cape Province,Between Dyer Island and Pearly Beach,Y
+987,2010.0,sep,AUSTRALIA,New South Wales,Fraser's Reef,N
+988,2010.0,sep,USA,Florida,"St. Augustine, St. John's County",N
+989,2010.0,sep,TONGA,Ha'api ,,N
+990,2010.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+991,2010.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+992,2010.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+993,2010.0,sep,SOLOMON ISLANDS,Western Province,,N
+994,2010.0,aug,BAHAMAS,Exuma Islands,"Off Jaws Beach, New Providence Island",UNKNOWN
+995,2010.0,aug,USA,Florida,Crescent Beach St. Johns County,N
+996,2010.0,aug,AUSTRALIA,Western Australia,Cowaramup Bay,Y
+997,2010.0,aug,USA,California,"Pigeon Point, San Mateo County",N
+998,2010.0,aug,AUSTRALIA,Queensland,"Three Mile Creek, Townsville",N
+999,2010.0,aug,SOUTH KOREA,Jeju Province,Jeju Island,N
+1000,2010.0,aug,AUSTRALIA,New South Wales,Crescent Head,N
+1001,2010.0,aug,USA,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",N
+1002,2010.0,aug,MALTA,,"Off Fort St. Elmo, Valetta",N
+1003,2010.0,aug,USA,Florida,"Bethune Beach, Volusia County",UNKNOWN
+1004,2010.0,aug,USA,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",N
+1005,2010.0,aug,USA,Florida,"Micklers Landing, St. Johns County",N
+1006,2010.0,jul,USA,South Carolina,"Isle of Palms, Charleston County",N
+1007,2010.0,jul,USA,Florida,"Jacksonville Beach, Duval County",N
+1008,2010.0,jul,USA,South Carolina,Myrtle Beach,N
+1009,2010.0,jul,USA,North Carolina,"Wrightsville Beach, New Hanover County",N
+1010,2010.0,jul,USA,Florida,New Smyrna Beach,N
+1011,2010.0,jul,SPAIN,Grand Canary Island,"Sardina del Norte, Gáldar",N
+1012,2010.0,jul,USA,Texas,Galveston,N
+1013,2010.0,jul,USA,Florida,"Lauderdale-by-the-Sea, Broward County",N
+1014,2010.0,jul,SOUTH AFRICA,KwaZulu-Natal,"Two Mile Reef, Sodwana Bay",N
+1015,2010.0,jul,USA,New York,Off Long Island,N
+1016,2010.0,jul,USA,California,"Pismo Beach, San Luis  Obispo County",N
+1017,2010.0,jul,USA,California,"Dog Patch, San Onofre",N
+1018,2010.0,jun,USA,Texas,"Eight Mile Beach, Galveston",N
+1019,2010.0,jun,USA,South Carolina,Fripp Island,N
+1020,2010.0,jun,USA,North Carolina,"Topsail Island, Pender County",N
+1021,2010.0,jun,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1022,2010.0,jun,USA,Florida,Jacksonville,N
+1023,2010.0,jun,AUSTRALIA,Western Australia,"Conspicuous Beach, near Walpole",N
+1024,2010.0,jun,USA,Florida,"Ponte Vedra Beach, St Johns County",N
+1025,2010.0,may,USA,Florida,Off Tarpon Springs,N
+1026,2010.0,may,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1027,2010.0,may,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1028,2010.0,may,AUSTRALIA,New South Wales,Point Plomer,N
+1029,2010.0,may,MADAGASCAR,Antsiranana Province," Ambatolaoka, Nosy Be Island",N
+1030,2010.0,may,USA,Florida,New Smyrna Beach,N
+1031,2010.0,apr,USA,Florida,Hanalei Bay,N
+1032,2010.0,apr,USA,Hawaii,"Hanalei Bay, Kauai",N
+1033,2010.0,apr,SOUTH AFRICA,Eastern Cape Province,"East Beach, Port Alfred",N
+1034,2010.0,apr,EGYPT,Sinai Peninsula,Sharm el-Sheikh ,N
+1035,2010.0,mar,REUNION,Saint-Benoit,Bittern,N
+1036,2010.0,feb,NEW ZEALAND,South Island,Tahunanui Beach,N
+1037,2010.0,feb,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,N
+1038,2010.0,feb,FIJI,Off Vanua Levu,Nara Reef,Y
+1039,2010.0,feb,AUSTRALIA,Queensland,"Dent Island, Whitsundays",N
+1040,2010.0,feb,AUSTRALIA,New South Wales,"Mona Vale Beach, Sydney",N
+1041,2010.0,feb,NEW ZEALAND,South Island,Cosy Nook,N
+1042,2010.0,feb,AUSTRALIA,New South Wales,Turners' Beach,N
+1043,2010.0,feb,USA,Florida,Riviera Beach,N
+1044,2010.0,feb,GUAM,Merizo,Achang Reef,UNKNOWN
+1045,2010.0,feb,USA,Florida,"Stuart, Martin County",Y
+1046,2010.0,feb,NEW ZEALAND,South Island,Oreti Beach,N
+1047,2010.0,jan,BRAZIL,Rio Grande Do Sul,"Atlantis Beach, near Tramandai",N
+1048,2010.0,jan,AUSTRALIA,Queensland,Archie's Beach,N
+1049,2010.0,jan,UNITED ARAB EMIRATES (UAE),Dubai,"Umm Suqeim Beach, Dubai",N
+1050,2010.0,jan,AUSTRALIA,Victoria,Geelong,N
+1051,2010.0,jan,SOUTH AFRICA,Western Province,Fish Hoek,Y
+1052,2010.0,jan,AUSTRALIA,Torres Strait,Thursday Island,N
+1053,2010.0,jan,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1054,2010.0,jan,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1055,2010.0,jan,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1056,2010.0,jan,USA,Florida,Elliot Key,N
+1057,2010.0,jan,SOUTH AFRICA,Eastern Province,"Nahoon, East London",N
+1058,2009.0,dec,SOUTH AFRICA,Eastern Cape  Province,Port Alfred,N
+1059,2009.0,dec,AUSTRALIA,New South Wales,Avoca Beach,N
+1060,2009.0,dec,MOZAMBIQUE,Maputo Province,Ponta do Ouro,N
+1061,2009.0,dec,AUSTRALIA,Queensland,Mudjimba Island,N
+1062,2009.0,dec,AUSTRALIA,Queensland,Lamont Reef,N
+1063,2009.0,dec,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Y
+1064,2009.0,dec,SOUTH AFRICA,KwaZulu-Natal,"North Beach, Durban",UNKNOWN
+1065,2009.0,dec,NEW ZEALAND,South Island,Clark Island,Y
+1066,2009.0,dec,AUSTRALIA,New South Wales,Coffee Head,N
+1067,2009.0,dec,AUSTRALIA,New South Wales,Hawks Nest Beach,N
+1068,2009.0,dec,USA,New Jersey,"Adventure Aquarium, Camden",N
+1069,2009.0,nov,USA,California,"Huntington Beach, Orange County",UNKNOWN
+1070,2009.0,nov,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard County",N
+1071,2009.0,nov,USA,California,"Loch Lomond, Marin County",N
+1072,2009.0,nov,USA,Florida,"Jupiter, Palm Beach County",N
+1073,2009.0,nov,USA,Florida,"Jupiter, Palm Beach County",N
+1074,2009.0,nov,USA,Florida,"New Smyrna Beach, Volusia County",N
+1075,2009.0,nov,AUSTRALIA,South Australia,Second Valley,N
+1076,2009.0,nov,USA,California,"Davenport, Santa Cruz County",N
+1077,2009.0,oct,AUSTRALIA,Victoria,Portland,N
+1078,2009.0,oct,MOZAMBIQUE,Inhambane Province,Off Vilanculo,N
+1079,2009.0,oct,AUSTRALIA,New South Wales,Lennox Heads,N
+1080,2009.0,oct,USA,California,"San Onofre, San Diego County ",N
+1081,2009.0,oct,USA,Hawaii,"Kalama Park, Maui",N
+1082,2009.0,oct,PANAMA,Bocas,Playa La Cabaña ,N
+1083,2009.0,oct,SCOTLAND,Fife,Deep Sea World Aquarium,N
+1084,2009.0,oct,AUSTRALIA,Western Australia,,N
+1085,2009.0,oct,USA,California,"San Onofre State Beach, San Diego County",N
+1086,2009.0,oct,UNITED KINGDOM,Devon,Mewstone Rock,N
+1087,2009.0,sep,USA,Florida,"Key Colony Beach, Monroe County",N
+1088,2009.0,sep,VIETNAM,,,N
+1089,2009.0,sep,SOMALIA,,300 miles off the coast ,N
+1090,2009.0,sep,BRAZIL,Pernambuco,"Piedade, Recife",Y
+1091,2009.0,sep,USA,North Carolina,"Corolla, Currituck County",Y
+1092,2009.0,sep,BRAZIL,Pernambuco,"Piedade, Recife",Y
+1093,2009.0,sep,NEVIS,,Castle Beach,UNKNOWN
+1094,2009.0,sep,SOLOMON ISLANDS,Makira-Ulawa Province,"Kirakira, Makira Island (formerly San Cristobal)",N
+1095,2009.0,aug,USA,California,"Huntington Beach, Orange County",N
+1096,2009.0,aug,SOUTH AFRICA,Western Cape Province,Glentana,Y
+1097,2009.0,aug,USA,California,"Terramar Beach, Carlsbad, San Diego County",N
+1098,2009.0,aug,SOUTH AFRICA,KwaZulu-Natal,Alkantstrand ,N
+1099,2009.0,aug,USA,Florida,"Ponce, Volusia County",N
+1100,2009.0,aug,USA,Hawaii,Kawa'a ,N
+1101,2009.0,aug,USA,Louisiana,"Curlew Island, Breton Sound",N
+1102,2009.0,uly,BAHAMAS,Abaco Islands,Spanish Cay,N
+1103,2009.0,jul,AUSTRALIA,New South Wales,Broken Head,N
+1104,2009.0,jul,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1105,2009.0,jul,KENYA,Mombasa,Likoni Channel,Y
+1106,2009.0,jul,USA,Texas,South Padre Island,N
+1107,2009.0,jul,SPAIN,Catalunya,Sant Salvador,UNKNOWN
+1108,2009.0,jul,USA,North Carolina,Holden Beach. Brunswick County,N
+1109,2009.0,jul,USA,Florida,"Intracoastal Waterway,      St. Petersburg",N
+1110,2009.0,jul,VIETNAM,Binh Dinh Province,Quy Nhon ,N
+1111,2009.0,jul,BAHAMAS,,,N
+1112,2009.0,jul,USA,California,"San Onofre, San Diego County ",N
+1113,2009.0,jul,SOUTH AFRICA,Western Cape Province,"Jogensfontein, Stilbaai",N
+1114,2009.0,jul,USA,Florida,"Daytona Beach, Volusia County",N
+1115,2009.0,jul,USA,Florida,"Biscayne National Park, Miami",N
+1116,2009.0,jun,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",N
+1117,2009.0,jun,USA,California,"Shell Beach, San Luis Obispo County",UNKNOWN
+1118,2009.0,jun,USA,Florida,"Melbourne Beach, Brevard County",UNKNOWN
+1119,2009.0,jun,VIETNAM,,,N
+1120,2009.0,jun,EGYPT,St. Johns Reef,Habili Gafar,N
+1121,2009.0,jun,EGYPT,St. Johns Reef,Habili Gafar,N
+1122,2009.0,jun,EGYPT,St. Johns Reef,Habili Gafar,Y
+1123,2009.0,may,TAIWAN,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13  ,N
+1124,2009.0,may,USA,Florida,"Clearwater Beach, Pinellas County",N
+1125,2009.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1126,2009.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1127,2009.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1128,2009.0,may,GUAM,North Region,Ritidian Point,N
+1129,2009.0,mar,BAHAMAS,Exuma Islands,,N
+1130,2009.0,apr,USA,Florida,"St. Augustine, St. John's County",N
+1131,2009.0,apr,USA,California,"San Onofre State Beach, San Diego County",N
+1132,2009.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1133,2009.0,apr,PHILIPPINES,Batangas province,Mabini,N
+1134,2009.0,apr,USA,Florida,"Carlin Park, Jupiter Inlet",N
+1135,2009.0,apr,USA,Florida,"Walton Rocks, St Lucie County",N
+1136,2009.0,apr,USA,Hawaii,Kona,UNKNOWN
+1137,2009.0,apr,AUSTRALIA,New South Wales,Fingal Bay,N
+1138,2009.0,apr,SOUTH AFRICA,KwaZulu-Natal,Umtentweni,UNKNOWN
+1139,2009.0,apr,USA,California,San Diego County,N
+1140,2009.0,apr,USA,Florida,"Sanibel Island, Lee County",N
+1141,2009.0,mar,SOUTH AFRICA,Eastern Cape Province,2-3 km north of Sunday's River mouth,N
+1142,2009.0,mar,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Y
+1143,2009.0,mar,AUSTRALIA,New South Wales,Blue Bay,N
+1144,2009.0,mar,AUSTRALIA,New South Wales,South Broulee,N
+1145,2009.0,mar,AUSTRALIA,New South Wales,Bateman's Bay,N
+1146,2009.0,mar,USA,Florida,"Ponce Inlet, Volusia County",N
+1147,2009.0,mar,MALAYSIA,Strait of Malacca,Pulau Payar Island,N
+1148,2009.0,mar,USA,Hawaii,Alenuihaha Channel,N
+1149,2009.0,mar,AUSTRALIA,Western Australia,"The Natural Jetty, Rottnest Island",N
+1150,2009.0,mar,NEW CALEDONIA,South Province,Bourail,Y
+1151,2009.0,mar,SOUTH AFRICA,Western Cape Province,Off Cape Point,N
+1152,2009.0,mar,NEW ZEALAND,North Island,Taranaki,N
+1153,2009.0,mar,AUSTRALIA,New South Wales,Avalon,N
+1154,2009.0,feb,AUSTRALIA,Queensland,Batt Reef,N
+1155,2009.0,feb,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",N
+1156,2009.0,feb,AUSTRALIA,New South Wales,"Bondi Beach, Sydney",N
+1157,2009.0,feb,AUSTRALIA,New South Wales,"Garden Point, Woolloomooloo Sydney Harbour",N
+1158,2009.0,feb,USA,Puerto Rico,Quebradillas,Y
+1159,2009.0,feb,AUSTRALIA,New South Wales,Cellito Beach,N
+1160,2009.0,feb,AUSTRALIA,New South Wales,Sandon,N
+1161,2009.0,jan,AZORES,,Onboard the fishing vessel Nuevo Cedes ,N
+1162,2009.0,jan,BRAZIL,,Praia do Olho d'Aqua,UNKNOWN
+1163,2009.0,jan,CUBA,Guantanamo Province,Guantanamo Bay,N
+1164,2009.0,jan,NEW ZEALAND,North Island,Alderman Islands,N
+1165,2009.0,jan,AUSTRALIA,New South Wales,"Surf Beach, Batemans Bay",N
+1166,2009.0,jan,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Y
+1167,2009.0,jan,BRAZIL,Maranhão,Olho d'Água ,UNKNOWN
+1168,2009.0,jan,AUSTRALIA,Victoria,Off Tower Hill,N
+1169,2009.0,jan,NEW ZEALAND,South Island,Karitane Beach,N
+1170,2009.0,jan,SOUTH AFRICA,Western Cape Province,"Shark Alley, off Gansbaai",Y
+1171,2009.0,jan,AUSTRALIA,New South Wales,"Windang,       Lake Illawara",N
+1172,2009.0,jan,AUSTRALIA,Tasmania,Binalong Bay,N
+1173,2009.0,jan,AUSTRALIA,New South Wales,Fingal Beach,N
+1174,2009.0,jan,NEW ZEALAND,North Island,Hawkes Bay,N
+1175,2009.0,jan,ECUADOR,Galapagos Islands,Isla Isabella,N
+1176,2009.0,jan,NEW ZEALAND,North Island,Haumoana ,N
+1177,2009.0,jan,CUBA,Guantanamo Province,Guantanamo,N
+1178,2008.0,dec,AUSTRALIA,Western Australia,Port Kennedy Beach,UNKNOWN
+1179,2008.0,dec,AUSTRALIA,Tasmania,near Schouten Island,N
+1180,2008.0,dec,AUSTRALIA,New South Wales,Seal Rocks,N
+1181,2008.0,dec,AUSTRALIA,New South Wales,"Long Reef, north of Sydney",N
+1182,2008.0,dec,AUSTRALIA,Western Australia,Port Kennedy Beach,Y
+1183,2008.0,dec,USA,California,"Dillon Beach, Marin County",N
+1184,2008.0,dec,NEW ZEALAND,North Island,Maraetai,N
+1185,2008.0,dec,SOUTH AFRICA,Western Cape Province,Plettenberg Bay,N
+1186,2008.0,dec,AUSTRALIA,New South Wales,Mowarry Point,N
+1187,2008.0,dec,MOZAMBIQUE,Inhambane Province,Chidenguele,Y
+1188,2008.0,nov,EGYPT,Red Sea,Elphinstone Reef,N
+1189,2008.0,nov,PHILIPPINES,Batanes Provine,Luzon Strait,N
+1190,2008.0,nov,ECUADOR,Galapagos Islands,Santa Cruz,N
+1191,2008.0,nov,AUSTRALIA,South Australia,North Haven,N
+1192,2008.0,nov,TAIWAN,,50 miles off Kaohsiung,Y
+1193,2008.0,nov,PHILIPPINES,Luzon,"off Paoay, Ilocos Norte Province",Y
+1194,2008.0,oct,AUSTRALIA,New South Wales,"Oceanworld, Manley",N
+1195,2008.0,oct,NEW CALEDONIA,,,N
+1196,2008.0,oct,AUSTRALIA,Northern Territory,Darwin,N
+1197,2008.0,oct,AUSTRALIA,New South Wales,Lake Macquarie,N
+1198,2008.0,oct,USA,Florida,"Santa Rosa Beach, Walton County",N
+1199,2008.0,oct,CROATIA," Split-Dalmatia Count,","Smokvina Bay, Vis Island",N
+1200,2008.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1201,2008.0,sep,USA,Florida,Bethune Beach,N
+1202,2008.0,sep,AUSTRALIA,Northern Territory,Near Croker Island,N
+1203,2008.0,sep,USA,Florida,"Ormond-by-the-Sea, Volusia County",N
+1204,2008.0,sep,USA,Hawaii,"Ka'a'awa, Oahu",N
+1205,2008.0,sep,USA,California,"Surf Beach, Lompoc, Santa Barbara County",N
+1206,2008.0,sep,AUSTRALIA,New South Wales,"Clarks Beach, Byron Bay",N
+1207,2008.0,sep,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1208,2008.0,sep,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1209,2008.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1210,2008.0,sep,USA,Florida,Hutchinson Island,N
+1211,2008.0,aug,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",N
+1212,2008.0,aug,USA,Hawaii,"McKenzie Beach Park in Pahoa, Hawai'i ",UNKNOWN
+1213,2008.0,aug,NUNITED KINGDOM,North Devon, Lundy Island,N
+1214,2008.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1215,2008.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1216,2008.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1217,2008.0,aug,USA,North Carolina,"Surf City, Topsail Island, Pender County",UNKNOWN
+1218,2008.0,aug,USA,Florida,"Sanibel Island, Lee County",N
+1219,2008.0,aug,USA,South Carolina,"North Myrtle Beach, Horry County",UNKNOWN
+1220,2008.0,aug,USA,US Virgin Islands,Buck Island,N
+1221,2008.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1222,2008.0,aug,USA,Hawaii,"Ala Moana Beach Park, Oah'u",N
+1223,2008.0,jul,AUSTRALIA,Victoria,Levys Beach,N
+1224,2008.0,jul,SOUTH AFRICA,,,N
+1225,2008.0,jul,PANAMA,San Carlos,Playa Teta,N
+1226,2008.0,jul,MEXICO,Cabo San Lucas,,N
+1227,2008.0,jul,USA,Hawaii,"Honokowai, Maui",N
+1228,2008.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+1229,2008.0,jul,USA,Hawaii,"Lahilahi Point, Oahu",N
+1230,2008.0,jul,USA,North Carolina,"Surf City, Topsail Island, Pender County",N
+1231,2008.0,jul,USA,North Carolina,"Topsail Island, Pender County",N
+1232,2008.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+1233,2008.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+1234,2008.0,jul,EGYPT,,Daedalus Reef,N
+1235,2008.0,jul,USA,North Carolina,"Carolina Beach, New Hanover County",UNKNOWN
+1236,2008.0,jul,USA,South Carolina,"Isle of Palms, Charleston County",N
+1237,2008.0,jul,USA,North Carolina,"Emerald Isle, Carteret County",N
+1238,2008.0,jul,USA,South Carolina,"Litchfield Beach, Georgetown County",N
+1239,2008.0,jul,UNITED KINGDOM,Sussex,"Rock-a-Nore, Hastings",N
+1240,2008.0,jun,USA,Hawaii,"Kamilo Point, Hawai'i",UNKNOWN
+1241,2008.0,jun,BAHAMAS,Abaco Islands,,N
+1242,2008.0,jun,SOUTH AFRICA,Western Cape Province,Mossel Bay,N
+1243,2008.0,jun,SOUTH AFRICA,Western Cape Province,Struis Bay,N
+1244,2008.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1245,2008.0,jun,USA,South Carolina,"Isle of Palms, Charleston County",N
+1246,2008.0,jun,BRAZIL,Bahia,Guarajuba,N
+1247,2008.0,jun,USA,California,"West Cove, Catalina Island",N
+1248,2008.0,jun,USA,Florida,"Fernandina Beach, Nassau County",N
+1249,2008.0,jun,BRAZIL,Pernambuco,"Punta Del Chifre, Olinda",N
+1250,2008.0,jun,USA,Florida,"Cocoa Beach, Brevard  County",N
+1251,2008.0,jun,SCOTLAND,Easter Ross,Balintore Bay,N
+1252,2008.0,jun,USA,South Carolina,Cherry Grove,N
+1253,2008.0,jun,BRAZIL,Pernambuco,"Piedade, Recife",N
+1254,2008.0,may,USA,North Carolina,"Hammocks Beach State Park, Bear Island, Onslow County",N
+1255,2008.0,may,BAHAMAS,Grand Bahama Island,Off West End,N
+1256,2008.0,may,MEXICO,Guerro,Playa Linda,N
+1257,2008.0,may,MEXICO,Guerro,Pantla Beach,Y
+1258,2008.0,may,FIJI,Yasawa Islands,Turtle Island,Y
+1259,2008.0,may,AUSTRALIA,Western Australia,Albany,N
+1260,2008.0,may,NEW CALEDONIA,North Province,Hienghène,N
+1261,2008.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1262,2008.0,may,SOUTH AFRICA,,,N
+1263,2008.0,apr,MEXICO,Guerro,Troncones Beach,Y
+1264,2008.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1265,2008.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1266,2008.0,apr,NEW CALEDONIA,North Province,Poindimié,N
+1267,2008.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1268,2008.0,apr,USA,California,"Solana Beach, San Diego County",Y
+1269,2008.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1270,2008.0,apr,AUSTRALIA,New South Wales,Crescent Head,UNKNOWN
+1271,2008.0,apr,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,UNKNOWN
+1272,2008.0,apr,MEXICO,Quintana Roo,"Delfines Beach, Cancun",UNKNOWN
+1273,2008.0,apr,AUSTRALIA,Queensland,"Duranbah, Greenmount Beach",UNKNOWN
+1274,2008.0,apr,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",N
+1275,2008.0,apr,FIJI,,,N
+1276,2008.0,mar,USA,Florida,"Palm Beach Shores, Palm Beach County",N
+1277,2008.0,apr,USA,Florida,"1.4 miles south of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",N
+1278,2008.0,apr,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Y
+1279,2008.0,apr,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",N
+1280,2008.0,mar,SOUTH AFRICA,KwaZulu-Natal,Scottburgh,N
+1281,2008.0,mar,USA,Florida,"New Smyrna Beach / Ponce Inlet, Volusia County",N
+1282,2008.0,mar,USA,Florida,"Near Cocoa Beach, Brevard  County",N
+1283,2008.0,mar,USA,Florida,"South of Ponce de Leon Jetty, New Smyrna Beach, Volusia County",N
+1284,2008.0,mar,USA,Florida,"Beachway Avenue Approach, New Smyrna Beach, Volusia County",N
+1285,2008.0,mar,USA,Florida,"Lovers Key State Park, Bonita Springs, Lee County",N
+1286,2008.0,mar,USA,California," Huntington Beach, Orange County",N
+1287,2008.0,feb,BAHAMAS,Northern Bahamas,"Dive site known as ""The End of the Map""",Y
+1288,2008.0,feb,FRENCH POLYNESIA,Society Islands,Tahiti,N
+1289,2008.0,feb,USA,Florida,"Ponce Inlet, Volusia County",N
+1290,2008.0,feb,AUSTRALIA,New South Wales,Horseshoe Bay,N
+1291,2008.0,feb,USA,Florida,"Opposite Patrick Air Force Base, Brevard County",N
+1292,2008.0,jan,JAPAN,Tokyo Bay,,UNKNOWN
+1293,2008.0,jan,SOUTH AFRICA,KwaZulu-Natal,"Suncoast Pirates Beach, Durban",N
+1294,2008.0,jan,AUSTRALIA,Queensland,200 km east of Coolangatta  ,N
+1295,2008.0,jan,NEW ZEALAND,South Island,Marfells Beach,UNKNOWN
+1296,2008.0,jan,NEW ZEALAND,North Island,Omaha Beach,N
+1297,2008.0,jan,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",N
+1298,2008.0,UNKNOWN,USA,Florida,"Off Fort Pierce, St. Lucie County",N
+1299,2008.0,mer,MEXICO,Baja California,Playas de Tijuana,N
+1300,2007.0,dec,ECUADOR,Galapagos Islands,San Cristobal Island,N
+1301,2007.0,dec,BRITISH VIRGIN ISLANDS,Green Bay,,UNKNOWN
+1302,2007.0,dec,AUSTRALIA,New South Wales,Jimmy's Beach,N
+1303,2007.0,dec,AUSTRALIA,Queensland,South Stradbroke Island,N
+1304,2007.0,dec,AUSTRALIA,New South Wales,Bondi ,UNKNOWN
+1305,2007.0,dec,USA,Hawaii,"Waialua Bay, O'ahu",N
+1306,2007.0,dec,NEW ZEALAND,South Island,Kaikoura,N
+1307,2007.0,dec,BRAZIL,Pernambuco,Itamaracá,N
+1308,2007.0,nov,AUSTRALIA,Western Australia,In a tidal creek    5 km from Wickham,N
+1309,2007.0,nov,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",N
+1310,2007.0,nov,SOUTH AFRICA,Western Cape Province,The Strand,N
+1311,2007.0,nov,USA,Florida,"New Smyrna Beach, Volusia County",N
+1312,2007.0,nov,USA,Florida,"Round Island Park, Indian River County",N
+1313,2007.0,nov,SOUTH AFRICA,Eastern Cape Province,Bonza Bay,N
+1314,2007.0,nov,MEXICO,Baja California,Guadalupe Island,UNKNOWN
+1315,2007.0,oct,USA,Hawaii,"Wailea, Maui",N
+1316,2007.0,oct,AUSTRALIA,New South Wales,Byron Bay,N
+1317,2007.0,oct,AUSTRALIA,Queensland,Holmes Reef,N
+1318,2007.0,oct,USA,California,"Venice Pier, Venice, Los Angeles County",N
+1319,2007.0,oct,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",N
+1320,2007.0,sep,USA,California,"Santa Monica, Los Angeles County",N
+1321,2007.0,sep,PHILIPPINES,Palawan,Off Cagayancillo,Y
+1322,2007.0,sep,NEW CALEDONIA,Loyalty Islands,"Bay of Luengoni, Lifou Island",Y
+1323,2007.0,sep,BAHAMAS,Grand Bahama Island,Sweetings Cay,N
+1324,2007.0,sep,USA,California,"Moonstone Beach, Humboldt County",N
+1325,2007.0,sep,EGYPT,Red Sea,Daedalus Reef ,N
+1326,2007.0,sep,USA,Florida,Jupiter Inlet,UNKNOWN
+1327,2007.0,sep,USA,Florida,Huguenot Park,N
+1328,2007.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1329,2007.0,sep,SOLOMON ISLANDS,Marovo Lagoon,Kicha Island,N
+1330,2007.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1331,2007.0,sep,USA,Florida,"Flagler Beach, Flagler County",N
+1332,2007.0,sep,USA,Florida,"Lauderdale-by-the-Sea, Broward County",N
+1333,2007.0,sep,USA,Florida,"Pepper Park Beach, St. Lucie County",N
+1334,2007.0,sep,USA,Florida,"Daytona Beach, Volusia County",N
+1335,2007.0,sep,USA,South Carolina,Sullivan's Island,N
+1336,2007.0,sep,USA,Florida,"Daytona Beach, Volusia County",N
+1337,2007.0,sep,USA,Florida,"Fort Lauderdale, Broward County",N
+1338,2007.0,aug,USA,Hawaii,"Ka'a'awa, Oahu",N
+1339,2007.0,aug,USA,California,"Marina State Beach, Monterey County",N
+1340,2007.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1341,2007.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1342,2007.0,aug,USA,North Carolina,North Carolina Aquarium at Fort Fisher,N
+1343,2007.0,aug,USA,Delaware,"Indian River Inlet, Rehoboth Beach",N
+1344,2007.0,aug,USA,Florida,"Islamorada Founder's Park, Plantation Key, Monroe County",N
+1345,2007.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1346,2007.0,aug,USA,South Carolina,"Lakewood Campground, Grand Strand, Horry County",N
+1347,2007.0,aug,USA,Florida,Sarasota Bay,N
+1348,2007.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1349,2007.0,aug,USA,Florida,"Ponce Inlet,  New Smyrna Beach, Volusia County",N
+1350,2007.0,aug,USA,South Carolina,"Isle of Palms, Charleston County",N
+1351,2007.0,aug,USA,South Carolina,"Isle of Palms, Charleston County",N
+1352,2007.0,aug,USA,Florida,"Islamorada, Monroe County",N
+1353,2007.0,jul,USA,Florida,"Ponce Inlet, Volusia County",N
+1354,2007.0,jul,USA,California,"Imperial Beach, San Diego County",N
+1355,2007.0,jul,USA,California,"Malibu, Los Angeles County",N
+1356,2007.0,jul,USA,California,"Bean Hollow State Beach, San Mateo County",N
+1357,2007.0,jul,USA,Hawaii,"Bellows Beach near Wailea Point, Oahu",N
+1358,2007.0,jul,AUSTRALIA,Territory of Cocos (Keeling) Islands,Direction Island,N
+1359,2007.0,jul,USA,North Carolina,"North Topsail Beach, Onslow  County",N
+1360,2007.0,jul,NORWAY,Oslo Fjord,Sjøstrand,N
+1361,2007.0,jul,USA,California,"Faria Beach, Ventura County",UNKNOWN
+1362,2007.0,jul,USA,North Carolina,"Atlantic Beach, Carteret County",N
+1363,2007.0,jul,BAHAMAS,Abaco Islands,Allan-Pensacola Cay,N
+1364,2007.0,jul,USA,Florida,"Ponce Inlet, Volusia County",N
+1365,2007.0,jul,REUNION,,Boucan Canot,N
+1366,2007.0,jul,SENEGAL,,,UNKNOWN
+1367,2007.0,jun,USA,Florida,Marques Island,N
+1368,2007.0,jun,USA,California,"Will Rogers State Beach, Los Angeles County",N
+1369,2007.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1370,2007.0,jun,USA,Hawaii,"Silva's Channel, Mokuleia, O'ahu",N
+1371,2007.0,jun,USA,Florida,"Vilano Beach, St.  Johns County",UNKNOWN
+1372,2007.0,jun,USA,Florida,"Turtle Beach, Siesta Key, Sarasota County",N
+1373,2007.0,jun,AUSTRALIA,New South Wales,"Shelly Beach, Crescent Head",N
+1374,2007.0,may,USA,South Carolina,Garden City,N
+1375,2007.0,may,USA,Virginia,"Virginia Aquarium & Marine Science Center, Virginia Beach ",N
+1376,2007.0,may,NUNITED KINGDOM,Kent,Folkestone,N
+1377,2007.0,may,AUSTRALIA,Western Australia,"Warra Beach, Coral Bay",N
+1378,2007.0,may,AUSTRALIA,Victoria,Warrnambool,N
+1379,2007.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1380,2007.0,may,SEYCHELLES,Bird Island,,N
+1381,2007.0,may,AUSTRALIA,New South Wales,Kingscliff Beach,UNKNOWN
+1382,2007.0,may,USA,Hawaii,"Keawakapu Beach, Maui",N
+1383,2007.0,may,USA,Florida,Naples,N
+1384,2007.0,may,TURKS & CAICOS,Providenciales,,Y
+1385,2007.0,may,BAHAMAS,Bimini Islands,,N
+1386,2007.0,apr,AUSTRALIA,Queensland,"Mornington Island, Gulf of Carpentaria",N
+1387,2007.0,apr,USA,Florida,"Hutchinson Island, St. Lucie County",N
+1388,2007.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1389,2007.0,apr,USA,Florida,"Florida Keys, Monroe County",N
+1390,2007.0,apr,NEW CALEDONIA,South Province,Dumbéa,N
+1391,2007.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1392,2007.0,mar,USA,Florida,"Normandy Beach, Hutchinson Island,  St. Lucie County",N
+1393,2007.0,mar,USA,Florida,"Waveland Beach, Hutchinson Island, St. Lucie County",N
+1394,2007.0,mar,YEMEN,Muhafazat Hadramawt,Ras-Alkalb,Y
+1395,2007.0,mar,USA,Florida,Jupiter Inlet,N
+1396,2007.0,mar,AUSTRALIA,New South Wales,South Golden Beach,N
+1397,2007.0,mar,USA,Florida,Delray Beach,N
+1398,2007.0,mar,AUSTRALIA,Queensland,"Moore Park, north of Bundaberg",N
+1399,2007.0,mar,USA,Florida,"Tiger Shores Beach, Martin County",N
+1400,2007.0,mar,NEW ZEALAND,Cook islans,Penhryn Island,N
+1401,2007.0,feb,COSTA RICA,,,UNKNOWN
+1402,2007.0,feb,AUSTRALIA,New South Wales,Shelly Beach,N
+1403,2007.0,feb,NEW CALEDONIA,Loyalty Islands,Ouvéa,N
+1404,2007.0,jan,NEW CALEDONIA,North Province,Kaala-Gomen ,N
+1405,2007.0,jan,USA,Florida,100 miles off Ft. Myers Beach,N
+1406,2007.0,jan,AUSTRALIA,New South Wales,Cape Howe,N
+1407,2007.0,jan,AUSTRALIA,New South Wales,Brunswick Heads,UNKNOWN
+1408,2007.0,jan,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Y
+1409,2007.0,jan,AUSTRALIA,New South Wales,Sandbar Beach,N
+1410,2007.0,jan,USA,New York,"Smith Point, Long Island",UNKNOWN
+1411,2007.0,jan,USA,Hawaii,"Majors Bay, Kaua'i",N
+1412,2006.0,dec,AUSTRALIA,Victoria,"Winki Pop, Bells Beach",N
+1413,2006.0,dec,NEW ZEALAND,North Island,"Raglan, Manu Bay",N
+1414,2006.0,dec,USA,California,"Dillon Beach, Marin County",N
+1415,2006.0,dec,SOUTH AFRICA,KwaZulu-Natal,Cape Vidal,N
+1416,2006.0,dec,AUSTRALIA,Western Australia,Wharton Beach,N
+1417,2006.0,nov,PHILIPPINES,Surigao del Norte,"Off Bilisan Point, Hinatuarn Island",Y
+1418,2006.0,nov,USA,Hawaii,"Kihei, Maui",N
+1419,2006.0,nov,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",N
+1420,2006.0,oct,USA,Oregon,"Siletz River mouth, Lincoln County",N
+1421,2006.0,oct,USA,Florida,Sebastian Inlet,N
+1422,2006.0,oct,USA,Florida,"Daytona Beach, Volusia County",N
+1423,2006.0,oct,USA,Texas,"Isla Blanca Park, South Padre Island",N
+1424,2006.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+1425,2006.0,oct,BAHAMAS,New Providence Island,Nassau,N
+1426,2006.0,oct,GULF OF ADEN,Between Somalia & Yemen,,Y
+1427,2006.0,sep,SOUTH AFRICA,Western Cape Province,Miller's Point,UNKNOWN
+1428,2006.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1429,2006.0,sep,USA,Florida,"Off Key Largo, Monroe County",N
+1430,2006.0,sep,USA,North Carolina,Onslow Beach,N
+1431,2006.0,sep,USA,Florida,"Singer Island, Riviera Beach",N
+1432,2006.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1433,2006.0,sep,AUSTRALIA,Queensland,Great Barrier Reef  ,UNKNOWN
+1434,2006.0,sep,BRAZIL,,,Y
+1435,2006.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1436,2006.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1437,2006.0,sep,SOUTH AFRICA,Western Cape Province,Noordhoek,N
+1438,2006.0,aug,USA,Oregon,"Florence, Lane County",N
+1439,2006.0,aug,AUSTRALIA,South Australia,"Pennington Bay, Kangaroo Island",N
+1440,2006.0,aug,REUNION,Saint-Gilles-les-Bains,"Les Aigrettes, near Boucan-Canot",N
+1441,2006.0,aug,BRAZIL,Pernambuco,Pina,UNKNOWN
+1442,2006.0,aug,BELIZE,Ambergris Caye,Near Ramon's Village,UNKNOWN
+1443,2006.0,aug,ITALY,,Lampedusa Island,Y
+1444,2006.0,aug,REUNION,Saint-Pierre,Pointe du Diable,Y
+1445,2006.0,aug,SOUTH AFRICA,Western Cape Province,Danger Reef,N
+1446,2006.0,aug,SOUTH AFRICA,Western Cape Province,"Sunrise Beach, Muizenberg",N
+1447,2006.0,aug,USA,North Carolina,"Masonboro Island, New Hanover County",N
+1448,2006.0,aug,REUNION,,Le Port,N
+1449,2006.0,jul,USA,Kentucky,"Newport Aquarium, Newport",N
+1450,2006.0,jul,USA,Oregon,Oswald State Park,N
+1451,2006.0,jul,USA,California,"Broad Beach, Malibu, Los Angeles County",N
+1452,2006.0,jul,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",N
+1453,2006.0,jul,SOUTH AFRICA,Western Cape Province,Fish Hoek,N
+1454,2006.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+1455,2006.0,jul,USA,Texas,"Sargent Beach, Matagorda County",N
+1456,2006.0,jul,AUSTRALIA,Torres Strait,Western Province,UNKNOWN
+1457,2006.0,jul,USA,South Carolina,"Singleton Beach, Hilton Head Island, Beaufort County",N
+1458,2006.0,jul,SPAIN,Alicante,San Juan Beach  ,UNKNOWN
+1459,2006.0,jul,USA,South Carolina,"Kiawah Island, Charleston County",N
+1460,2006.0,jul,BRAZIL,Pernambuco,Body recovered at Goiana,Y
+1461,2006.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+1462,2006.0,jul,USA,Florida,"Ponte Vedra Beach, St Johns County",N
+1463,2006.0,jul,USA,South Carolina,"Debordieu Beach, Georgetown County",N
+1464,2006.0,jul,USA,Florida,"Playalinda Beach, Canaveral National Seashore, Brevard County",N
+1465,2006.0,jul,USA,Florida,"Florida Keys, Monroe County",N
+1466,2006.0,jul,USA,Florida,"Florida Keys, Monroe County",N
+1467,2006.0,jun,USA,Florida,"Hutchinson Island, St. Lucie County",N
+1468,2006.0,jun,USA,Florida,Fort Myers,N
+1469,2006.0,jun,BAHAMAS,Andros Islands,Mangrove Cay,N
+1470,2006.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1471,2006.0,jun,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",Y
+1472,2006.0,jun,USA,California,"Monterey, Monterey County",N
+1473,2006.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1474,2006.0,jun,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",N
+1475,2006.0,jun,AUSTRALIA,South Australia,Waitpinga,N
+1476,2006.0,may,USA,Hawaii,O'ahu,N
+1477,2006.0,may,USA,Hawaii,French Frigate Shoals,N
+1478,2006.0,may,USA,Hawaii,"North Shore, O'ahu",N
+1479,2006.0,may,USA,Hawaii,Lanai,N
+1480,2006.0,may,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",N
+1481,2006.0,may,USA,Guam,Gun Beach,N
+1482,2006.0,may,USA,Florida,"Cocoa Beach, Brevard  County",N
+1483,2006.0,may,USA,Florida,"Hutchinson Island, St. Lucie County",N
+1484,2006.0,may,AUSTRALIA,Queensland,"Moffat Beach, Caloundra",N
+1485,2006.0,apr,USA,Florida,"Alligator Reef off Islamorada, Monroe County",UNKNOWN
+1486,2006.0,apr,USA,Florida,"Sebastian Inlet, Brevard County",N
+1487,2006.0,apr,USA,Florida,"Daytona Beach, Volusia County",N
+1488,2006.0,apr,USA,Florida,"Port of the Islands, Collier County",N
+1489,2006.0,apr,AUSTRALIA,New South Wales,Newcastle Beach,N
+1490,2006.0,apr,SOUTH AFRICA,Eastern Cape Province,St. Francis Bay,N
+1491,2006.0,apr,BRAZIL,Pernambuco,Piedade,N
+1492,2006.0,apr,USA,Florida,"Marco Island, Collier County",N
+1493,2006.0,mar,SIERRA LEONE,Western Area,"Lumely Beach, Freetown",Y
+1494,2006.0,mar,USA,Hawaii,"Leftovers, near Waimea Bay, O'ahu",N
+1495,2006.0,mar,SOUTH AFRICA,Eastern Cape Province,Port Alfred,UNKNOWN
+1496,2006.0,mar,FIJI,Vitu Levu,Sigatoka,N
+1497,2006.0,mar,AUSTRALIA,New South Wales,"Bondi, Sydney",N
+1498,2006.0,feb,USA,Hawaii,"Makena, Maui",N
+1499,2006.0,feb,USA,Hawaii,"Makena, Maui",UNKNOWN
+1500,2006.0,feb,AUSTRALIA,Queensland,"Golden Beach, Caloundra",N
+1501,2006.0,feb,AUSTRALIA,Queensland,"Point Vernon, Hervey Bay",N
+1502,2006.0,feb,AUSTRALIA,South Australia,"Brighton Beach, Adelaide",N
+1503,2006.0,feb,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",N
+1504,2006.0,feb,TONGA,Vava'u,Tuanuku,Y
+1505,2006.0,feb,USA,Hawaii,"Off Pu'u Ola'l, Makena, Maui",N
+1506,2006.0,jan,ATLANTIC OCEAN,300 miles from Antigua,,N
+1507,2006.0,jan,SOUTH AFRICA,Eastern Cape Province,Coffee Bay,N
+1508,2006.0,jan,ATLANTIC OCEAN,800 miles from land,,N
+1509,2006.0,jan,USA,California,"Santa Cruz, Santa Cruz County",N
+1510,2006.0,jan,AUSTRALIA,Western Australia,"Off City Beach, Perth",N
+1511,2006.0,jan,BAHAMAS,Grand Bahama Island,Sandy Cay,UNKNOWN
+1512,2006.0,jan,AUSTRALIA,Queensland,"Amity Point, North Stradbroke Island",Y
+1513,2006.0,jan,USA,Florida,"Round Island Park, Indian River County",N
+1514,2006.0,jan,SOUTH AFRICA,Western Cape Province,Soetwater,N
+1515,2005.0,dec,USA,Oregon,"Tillamook Head, Clatsop County",N
+1516,2005.0,dec,USA,Hawaii,"Keawakapu Beach, Maui",N
+1517,2005.0,dec,ATLANTIC OCEAN,600 nm west of the Canary Islands,,N
+1518,2005.0,dec,AUSTRALIA,Queensland,St. Crispin Reef,N
+1519,2005.0,dec,AUSTRALIA,South Australia,"Middle Beach, 40 km north of Adelaide",N
+1520,2005.0,nov,USA,Florida,"Cape San Blas, Gulf County",N
+1521,2005.0,nov,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1522,2005.0,nov,AUSTRALIA,Victoria,"6 km off Collendina, south of Melbourne",N
+1523,2005.0,nov,AUSTRALIA,Victoria,Flinders,N
+1524,2005.0,nov,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",N
+1525,2005.0,nov,NEW CALEDONIA,Loyalty Islands,Maré,N
+1526,2005.0,nov,USA,Florida,"Jensen Beach, Martin County ",N
+1527,2005.0,nov,USA,Florida,"New Smyrna  Beach, Volusia County",N
+1528,2005.0,nov,NEW CALEDONIA,,,N
+1529,2005.0,nov,SOUTH AFRICA,Eastern Cape Province,Aston Bay,N
+1530,2005.0,nov,USA,Florida,"New Smyrna  Beach, Volusia County",N
+1531,2005.0,nov,USA,California,"Mavericks, Half Moon Bay, San Mateo County",N
+1532,2005.0,nov,USA,California,"Ocean Beach, San Francisco, San Francisco County",N
+1533,2005.0,oct,USA,Florida,"Ponce de Leon Inlet, Volusia County ",N
+1534,2005.0,oct,ST. MAARTIN,Simpson Bay,Sunterra Beach,N
+1535,2005.0,oct,SOUTH AFRICA,Western Cape Province,Uilenkraalsmond (near Gansbaai),N
+1536,2005.0,oct,USA,California,"Klamath River mouth, Del Norte County",N
+1537,2005.0,oct,USA,California,"Salmon Beach, Sonoma County",N
+1538,2005.0,oct,USA,Florida,"Ponce Inlet, Volusia County",N
+1539,2005.0,oct,USA,Hawaii,"Honokowai, Maui",N
+1540,2005.0,oct,GRAND CAYMAN,East Wall,Jack McKenney's Canyon,N
+1541,2005.0,oct,USA,Florida,"Ponce Inlet, Volusia County",N
+1542,2005.0,oct,BAHAMAS,Abaco Islands,Grand Cay,N
+1543,2005.0,oct,SOUTH AFRICA,Western Cape Province,"Sunny Cove, Fish Hoek",N
+1544,2005.0,sep,AUSTRALIA,New South Wales,Arakoon's Little Bay,N
+1545,2005.0,sep,AUSTRALIA,South Australia,Kangaroo Island,N
+1546,2005.0,sep,AUSTRALIA,Western Australia,"Scarborough Beach, Perth",N
+1547,2005.0,sep,USA,Florida,"Tigertail Beach, Collier County",UNKNOWN
+1548,2005.0,sep,USA,South Carolina,"Myrtle Beach, Horry County",N
+1549,2005.0,sep,USA,South Carolina,Folly Beach,Y
+1550,2005.0,sep,AUSTRALIA,New South Wales,"Park Beach, Coff's Harbour",N
+1551,2005.0,sep,USA,North Carolina,"North Topsail Beach, Onslow County",N
+1552,2005.0,sep,AUSTRALIA,South Australia,"Fishery Bay, Eyre Peninsula",N
+1553,2005.0,sep,USA,Florida,"Ponce Inlet, Volusia County",N
+1554,2005.0,sep,THAILAND,,On deck of fishing trawler 100 nautical miles offshore,Y
+1555,2005.0,aug,AUSTRALIA,South Australia,Glenelg ,Y
+1556,2005.0,aug,USA,California,"Scripps, LaJolla, San Diego County",N
+1557,2005.0,aug,USA,South Carolina,"6th Avenue North, Myrtle Beach, Horry County",UNKNOWN
+1558,2005.0,aug,USA,South Carolina,"34th Avenue North, Myrtle Beach, Horry County",N
+1559,2005.0,aug,USA,Texas,Crystal Beach (east of Galveston),N
+1560,2005.0,aug,SOUTH AFRICA,Western Cape Province,"Milnerton Lagoon, Cape Town",UNKNOWN
+1561,2005.0,aug,USA,North Carolina,"Carolina Beach off Texas Avenue, New Hanover County",N
+1562,2005.0,aug,USA,South Carolina,"Isle of Palms, Charleston County",N
+1563,2005.0,aug,SEYCHELLES,Inner Islands,Off North Island,UNKNOWN
+1564,2005.0,jul,USA,Florida,"Off Zelda Boulevard, Daytona Beach, Volusia Countyy",N
+1565,2005.0,jul,USA,Florida,"Ormond Beach, Volusia County",N
+1566,2005.0,jul,USA,Florida,"Quarter mile south of Ponce de Leon Inlet, Volusia County",UNKNOWN
+1567,2005.0,jul,LIBERIA,,,UNKNOWN
+1568,2005.0,jul,CHINA,Shanghai,"Ocean World, Changfeng Park",N
+1569,2005.0,jul,AUSTRALIA,,,UNKNOWN
+1570,2005.0,jul,USA,North Carolina,"Holden Beach, Brunswick County",N
+1571,2005.0,jul,USA,Texas,"Port Bolivar, Galveston County",N
+1572,2005.0,jul,USA,Florida,"Boca Grande, Lee County",N
+1573,2005.0,jun,USA,Florida,"Cape San Blas, Gulf County",N
+1574,2005.0,jun,USA,Florida,"Destin, Walton County",Y
+1575,2005.0,jun,VANUATU,Malampa Province,Atchin Island off Malakula,Y
+1576,2005.0,jun,MEXICO,Baja California,San Luis beach,N
+1577,2005.0,jun,USA,Hawaii,Maui,UNKNOWN
+1578,2005.0,jun,USA,Florida,"Howard E. Futch Memorial Park at Paradise Beach, Brevard County",N
+1579,2005.0,jun,SOUTH KOREA,South Ch'ungch'ong Province,Dando/Kaeui Island ,N
+1580,2005.0,jun,USA,South Carolina,"Kiawah Island, Charleston County",N
+1581,2005.0,jun,USA,New Jersey,"Surf City, Long Beach Island, Ocean County",UNKNOWN
+1582,2005.0,jun,SOUTH AFRICA,Western Cape Province,Miller's Point,Y
+1583,2005.0,jun,USA,Texas,"Mustang Island, Corpus Christi",N
+1584,2005.0,may,USA,Florida,Daytona Beach Shores,N
+1585,2005.0,may,USA,Florida,"Sand Key Beach, Clearwater, Pinellas County",N
+1586,2005.0,may,SOUTH AFRICA,Eastern Cape Province,Kei River Mouth,N
+1587,2005.0,may,AUSTRALIA,Queensland,50 km east of Townsville,N
+1588,2005.0,may,USA,Hawaii,"North Kihei, Maui",N
+1589,2005.0,may,MADAGASCAR,,,N
+1590,2005.0,may,USA,South Carolina,Off Sullivans Island,N
+1591,2005.0,may,USA,Hawaii,"Noreiga's, Maui",N
+1592,2005.0,apr,AUSTRALIA,New South Wales,Bermagui,N
+1593,2005.0,apr,AUSTRALIA,New South Wales,Crookhaven,N
+1594,2005.0,apr,AUSTRALIA,Northern Territory,Bremer Island,N
+1595,2005.0,apr,AUSTRALIA,New South Wales,Bronte Beach,N
+1596,2005.0,apr,USA,Florida,"Crescent Beach, Sarasota County",N
+1597,2005.0,apr,USA,Florida,"Central Gulf Coast, St. John County",UNKNOWN
+1598,2005.0,apr,USA,Texas,"Isla Blanca Park, South Padre Island, Cameron County",N
+1599,2005.0,apr,USA,Florida,"Jacksonville Beach, Duval County",N
+1600,2005.0,apr,HONDURAS,Bay Islands,Utila,UNKNOWN
+1601,2005.0,mar,SOUTH AFRICA,Western Cape Province,Noordhoek,N
+1602,2005.0,mar,AUSTRALIA,New South Wales,,N
+1603,2005.0,mar,VENEZUELA,,Punta Caracas,N
+1604,2005.0,mar,AUSTRALIA,Western Australia,"Wreck Point, Abrolhos Islands",Y
+1605,2005.0,mar,USA,New Mexico,"Albuquerue Aquarium, Albuquerue",N
+1606,2005.0,mar,SOUTH AFRICA,KwaZulu-Natal,Isipingo,UNKNOWN
+1607,2005.0,mar,NEW ZEALAND,North Island,"Waiapu River mouth , East Cape",N
+1608,2005.0,mar,SOLOMON ISLANDS,Santa Isabel Province,,N
+1609,2005.0,feb,AUSTRALIA,Queensland,Brisbane River,N
+1610,2005.0,feb,USA,Florida,"Long Key, Monroe County",N
+1611,2005.0,feb,USA,Hawaii,"Rocky Point, north shore of O'ahu",N
+1612,2005.0,feb,USA,Florida,Fort Lauderdale,N
+1613,2005.0,feb,BRAZIL,Bahia,Ilhéus,N
+1614,2005.0,jan,CUBA,Santiago de Cuba Province,Uvero,N
+1615,2005.0,jan,AUSTRALIA,Victoria,Port Phillip Bay,N
+1616,2005.0,jan,AUSTRALIA,Victoria,Blairgowrie,N
+1617,2005.0,jan,NEW ZEALAND,North Island,Taupiri Bay,N
+1618,2004.0,dec,SRI LANKA,Eastern Province,Pasikudha,UNKNOWN
+1619,2004.0,dec,AUSTRALIA,South Australia,"West Beach, Adelaide",Y
+1620,2004.0,dec,AUSTRALIA,Queensland,Opal Reef,Y
+1621,2004.0,nov,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",N
+1622,2004.0,nov,SOUTH AFRICA,Eastern Cape Province,Gonubie,N
+1623,2004.0,nov,SOUTH AFRICA,Western Cape Province,"Fish Hoek, False Bay",Y
+1624,2004.0,nov,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",N
+1625,2004.0,nov,VANUATU,Malampa Province,Malakula (Malakula Island),N
+1626,2004.0,nov,NEW CALEDONIA,North Province,Koumac,N
+1627,2004.0,oct,CUBA,Camaguey Province,Santa Lucia,N
+1628,2004.0,oct,NEW ZEALAND,North Island,Whangarei,UNKNOWN
+1629,2004.0,oct,SOUTH AFRICA,Western Cape Province,Gansbaai,N
+1630,2004.0,oct,AUSTRALIA,New South Wales,Stockton Beach,N
+1631,2004.0,oct,USA,California,"Limantour Beach, Point Reyes National Seashore",N
+1632,2004.0,oct,USA,Hawaii,Moloka'i,N
+1633,2004.0,oct,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,N
+1634,2004.0,oct,REUNION,Conservatória District,"P' tit Paris, Saint-Pierre",N
+1635,2004.0,oct,USA,California,"Pismo Beach, San Luis Obispo County",N
+1636,2004.0,oct,USA,California,"Lifeguard Tower 16, Huntington Beach, Orange County",N
+1637,2004.0,sep,AUSTRALIA,Queensland,Batt Reef,N
+1638,2004.0,sep,USA,Oregon,Gold  Beach,N
+1639,2004.0,sep,USA,Texas,South Padre Island,UNKNOWN
+1640,2004.0,sep,BRAZIL,Pernambuco,"Pina, Recife",Y
+1641,2004.0,sep,USA,South Carolina ,"North of Apache Pier, Myrtle Beach, Horry County",N
+1642,2004.0,aug,USA,Florida,"New Smyrna Beach / Cape Canaveral  National Seashore, Brevard County",N
+1643,2004.0,aug,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",N
+1644,2004.0,aug,USA,California,"204s, San Clemente, Orange County",N
+1645,2004.0,aug,USA,California,"Kibesillah, Mendocino County",Y
+1646,2004.0,aug,USA,Florida,"Big Bayou, St. Petersburg, Pinellas County ",N
+1647,2004.0,aug,AUSTRALIA,New South Wales,Byron Bay,N
+1648,2004.0,aug,SOUTH AFRICA,KwaZulu-Natal,Park Rynie,N
+1649,2004.0,jul,USA,Florida,"Cocoa  Beach, Brevard County",N
+1650,2004.0,jul,RUSSIA,Kuril Islands in the Pacific,"Kunashir Island, 70 km from northern Japan",N
+1651,2004.0,jul,USA,North Carolina,"Rodanthe, Dare County",N
+1652,2004.0,jul,USA,North Carolina,"Carolina Beach, New Hanover County",N
+1653,2004.0,jul,USA,Texas,Galveston Island,N
+1654,2004.0,jul,USA,Texas,"Bryan Beach, Brazoria County",N
+1655,2004.0,jul,AUSTRALIA,Western Australia,"7 km off Trigg surf beach, Perth",N
+1656,2004.0,jul,JAPAN,Wakayama Prefecture,Susami,N
+1657,2004.0,jul,AUSTRALIA,Western Australia,"Lefthanders Beach, Margaret River",Y
+1658,2004.0,jul,EGYPT,Sinai Peninsula,The lagoon at Dahab,N
+1659,2004.0,jul,USA,Alabama,"Gulf Shores Beach, Baldwin County",N
+1660,2004.0,jun,USA,California,"San Onofre State Beach, San Diego County",N
+1661,2004.0,jun,AUSTRALIA,Western Australia,Floreat Beach,UNKNOWN
+1662,2004.0,jun,USA,Florida,"Disney / Vero Beach, Indian River County",N
+1663,2004.0,jun,AUSTRALIA,Western Australia,Bunbury,N
+1664,2004.0,jun,USA,Florida,"Daytona Beach Shores, Volusia County",N
+1665,2004.0,jun,SOUTH AFRICA,Western Cape Province,Dyer Island,Y
+1666,2004.0,may,USA,Texas,"Pirate's Beach, Galveston Island",N
+1667,2004.0,may,BRAZIL,Pernambuco,Piedade Beach,N
+1668,2004.0,may,USA,California,"Salmon Creek, Sonoma County",N
+1669,2004.0,may,USA,Florida,"St. Augustine, St. John's County",N
+1670,2004.0,may,USA,Florida,St. Augustine  St. Johns County,UNKNOWN
+1671,2004.0,may,USA,Florida,"Jacksonville Beach, Duval County",N
+1672,2004.0,may,BRAZIL,Pernambuco,"Piedade Beach, Recife",N
+1673,2004.0,may,BAHAMAS,Abaco Islands,Green Turtle Cay,N
+1674,2004.0,may,USA,Texas,Channel between South Padre Island & Padre Island National Seashore,N
+1675,2004.0,may,BRAZIL,Pernambuco,Piedade ,Y
+1676,2004.0,apr,AUSTRALIA,New South Wales,"Latitude Reef, near Forster",N
+1677,2004.0,apr,NEW ZEALAND,North Island,Motunui,N
+1678,2004.0,apr,TONGA,Nuku'alofa,30 nautical miles offshore,Y
+1679,2004.0,apr,TONGA,Nuku'alofa,30 nautical miles offshore,Y
+1680,2004.0,apr,USA,Hawaii,"Kahana Beach, Maui",Y
+1681,2004.0,apr,SOUTH AFRICA,Western Cape Province,"Surfers' Corner, Muizenberg, False Bay",N
+1682,2004.0,apr,USA,Hawaii,Velzyland,UNKNOWN
+1683,2004.0,mar,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",N
+1684,2004.0,mar,USA,Florida,"Stuart Rocks, Martin County",N
+1685,2004.0,mar,BRAZIL,Pernambuco,Piedade Beach,N
+1686,2004.0,mar,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",N
+1687,2004.0,mar,REUNION,Saint-Benoît,Spot de la gare,N
+1688,2004.0,mar,USA,Florida,"Sanibel Island, Lee County",N
+1689,2004.0,mar,USA,Hawaii,Punaluu,N
+1690,2004.0,mar,NEW ZEALAND,North Island,Te Arai Point,N
+1691,2004.0,mar,USA,Hawaii,"Kalihiwai Beach, Kauai",N
+1692,2004.0,mar,AUSTRALIA,Western Australia,5 nm off Cervantes,N
+1693,2004.0,feb,BRAZIL,Pernambuco,"Piedade Beach, Recife",Y
+1694,2004.0,feb,NEW ZEALAND,"South Island, near Karitane north of Dunedin",South Beach,N
+1695,2004.0,feb,AUSTRALIA,New South Wales,"Taree, Old Bar Beach",N
+1696,2004.0,feb,AUSTRALIA,Queensland,"Fido's Reef, 300 m east of Cook Island. Cook Island is 2 miles from Tweed Heads, Gold Coast",UNKNOWN
+1697,2004.0,feb,EGYPT,,"Coral Bay, Sharm-el-Sheikh",Y
+1698,2004.0,feb,AUSTRALIA,New South Wales,Caves Beach,N
+1699,2004.0,jan,AUSTRALIA,Western Australia,Binningup,N
+1700,2004.0,jan,URUGUAY,Rocha,Ensenada de la Coronilla,N
+1701,2004.0,jan,NEW ZEALAND,Northlands,90 Mile Beach,UNKNOWN
+1702,2004.0,jan,VENEZUELA,Anzoategui,"Playa Colorada Beach, Mochima National Park, only 200 m west of Santa Cruz Beach",N
+1703,2004.0,jan,VENEZUELA,Anzoategui,"Santa Cruz Beach, Mochima National Park, 250 km from Caracas",N
+1704,2004.0,jan,SOUTH AFRICA,KwaZulu-Natal,Ballito,N
+1705,2004.0,jan,AUSTRALIA,New South Wales,Bushrangers Pass at Bass Point,N
+1706,2004.0,jan,SOUTH AFRICA,Eastern Cape Province,"West Beach, Port Alfred",N
+1707,2004.0,jan,NEW ZEALAND,North Island,"Whiritoa, Eastern Cormandel",UNKNOWN
+1708,2004.0,jan,EGYPT,Sinai Peninsula,Off Sharm El-Sheikh,Y
+1709,2004.0,UNKNOWN,AUSTRALIA,Western Australia,Redgate Beach,N
+1710,2003.0,dec,SOUTH AFRICA,KwaZulu-Natal,Salt Rock ,N
+1711,2003.0,dec,USA,Florida,"Miami, Dade County",UNKNOWN
+1712,2003.0,dec,USA,Florida,"Melbourne Beach, Brevard County",N
+1713,2003.0,dec,NEW ZEALAND,Cook Islands,Pukapuka Northern Group,Y
+1714,2003.0,dec,AUSTRALIA,Victoria,Collendina Beach east of Ocean Grove,N
+1715,2003.0,nov,AUSTRALIA,Western Australia,Perth? (Margaret River District),N
+1716,2003.0,nov,AUSTRALIA,Western Australia,Perth? (Margaret River District),N
+1717,2003.0,nov,SOUTH AFRICA,KwaZulu-Natal,Sodwana,Y
+1718,2003.0,nov,USA,Florida,"Daytona Beach, Volusia County",N
+1719,2003.0,nov,INDIA,Tamil Nadu,"Mahabalipuram beach, 37 km south of Chennai",N
+1720,2003.0,nov,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",N
+1721,2003.0,nov,EGYPT,Sinai Peninsula,"Shaab Mahmud, Ras Mohamed Park",N
+1722,2003.0,nov,SOUTH AFRICA,KwaZulu-Natal,Karridene,N
+1723,2003.0,nov,AUSTRALIA,New South Wales,"Seal Rocks, north of Newcastle",N
+1724,2003.0,nov,PANAMA,Pearl Islands,,N
+1725,2003.0,oct,USA,Florida,"Ponte Vedra Beach, St. Johns County",N
+1726,2003.0,oct,AUSTRALIA,New South Wales,"Lighthouse Beach, Seal Rocks",N
+1727,2003.0,oct,USA,Hawaii,"Tunnels surf break off Makua Beach, Kaua'i",N
+1728,2003.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+1729,2003.0,oct,USA,Hawaii,Honolua Bay,UNKNOWN
+1730,2003.0,oct,USA,Florida,Near Patrick Air Force Base Brevard County,N
+1731,2003.0,oct,USA,Florida,Palm Beach?,Y
+1732,2003.0,oct,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",N
+1733,2003.0,oct,USA,Florida,"Stuart Park Beach, Martin County",N
+1734,2003.0,oct,USA,Florida,"South Jetty, New Smyrna Beach, Volusia County",N
+1735,2003.0,oct,USA,Florida,"Crawford Road beach approach at New Smyrna Beach, Volusia County",N
+1736,2003.0,oct,USA,Hawaii,"Cove Beach / Kalama Beach, Kihei, Maui",N
+1737,2003.0,sep,FIJI,Taveuni,Welagi coastal reef off Drekeniwai,Y
+1738,2003.0,sep,USA,Florida,"North Hutchinson Island, St. Lucie Couny",N
+1739,2003.0,sep,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1740,2003.0,sep,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1741,2003.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1742,2003.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1743,2003.0,sep,SOUTH AFRICA,Western Cape Province,Melkbosstrand,N
+1744,2003.0,sep,USA,Florida,"Bathtub Reef Beach, Martin County",UNKNOWN
+1745,2003.0,sep,USA,Florida,"Daytona Beach, Volusia County ",N
+1746,2003.0,sep,USA,South Carolina,"Isle of Palms, Charleston County",N
+1747,2003.0,sep,SOUTH AFRICA,Western Cape Province,Near the wreck of the Kakapo off Noordhoek Beach,Y
+1748,2003.0,sep,USA,Florida,"Boca Grande, Lee County",N
+1749,2003.0,aug,USA,Texas,1.5 miles off Surfside ,N
+1750,2003.0,aug,USA,California,"Avila Beach, San Luis Obispo County",Y
+1751,2003.0,aug,USA,California,"Venice Beach, Los Angeles County",UNKNOWN
+1752,2003.0,aug,SOUTH AFRICA,Eastern Cape Province,Jeffreys Bay,N
+1753,2003.0,jul,AUSTRALIA,Northern Territory,Nhulunbuy,N
+1754,2003.0,jul,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1755,2003.0,jul,USA,Florida,"Daytona Beach, Volusia County",N
+1756,2003.0,jul,BAHAMAS,Abaco Islands,Bakers Bay,N
+1757,2003.0,jul,USA,Florida,"Near New Smyrna Jetty, Volusia County",N
+1758,2003.0,jul,USA,Florida,"Canova Beach, Brevard County",N
+1759,2003.0,jul,BAHAMAS,Abaco Islands,10 miles west of Walkers Cay,N
+1760,2003.0,jul,USA,Florida,"Fort Lauderdale, Broward County",N
+1761,2003.0,jul,FRENCH POLYNESIA,Society Islands,Moorea,N
+1762,2003.0,jul,NEW ZEALAND,Cook Islands,Beveridge Reef,N
+1763,2003.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1764,2003.0,jun,USA,Florida,St Augustine Beach. St. Johns County,N
+1765,2003.0,jun,BRAZIL,Pernambuco,"Piedade, Recife",Y
+1766,2003.0,jun,USA,Florida,"Cocoa Beach, Brevard County",N
+1767,2003.0,jun,USA,Hawaii,"Makua Beach, Oahu",N
+1768,2003.0,jun,USA,Johnston Atoll,,N
+1769,2003.0,jun,USA,North Carolina,"Masonboro Island, New Hanover County",N
+1770,2003.0,jun,USA,Florida,"Ponce Inlet, Volusia County",N
+1771,2003.0,jun,USA,South Carolina,"Pawleys Island, Georgetown County",UNKNOWN
+1772,2003.0,may,USA,Florida,"Coral Cove Park, Jupiter Inlet, Palm Beach County",N
+1773,2003.0,may,USA,Florida,"Ponce de Leon Inlet, Volusia County ",N
+1774,2003.0,may,USA,Hawaii,Between Magic Sands Beach and Kahaluu Beach on the Kona coast,N
+1775,2003.0,may,USA,Florida,"New Smyrna Beach, Volusia County",N
+1776,2003.0,may,USA,Florida,"Daytona Beach Shores, Volusia County",N
+1777,2003.0,may,PHILIPPINES,Baatan,Limay,N
+1778,2003.0,apr,BRAZIL,Rio de Janeiro,"Copacabana Beach, Rio de Janiero",N
+1779,2003.0,apr,BRAZIL,Rio de Janeiro,"Copacabana Beach, Rio de Janiero",N
+1780,2003.0,apr,BRAZIL,Pernambuco,"Pau Amarelo Beach, Paulista District (17 km from Recife)",N
+1781,2003.0,apr,BRAZIL,Rio de Janeiro,"Copacabana Beach, Rio de Janiero",N
+1782,2003.0,apr,USA,Florida,"Melbourne Beach, Brevard County ",N
+1783,2003.0,apr,USA,Florida,"Shepard Park, Cocoa Beach, Brevard County ",N
+1784,2003.0,apr,USA,Florida,"Playalinda Beach, Brevard County",N
+1785,2003.0,apr,USA,Florida,"Sunglow Pier, Daytona Beach Shores, Volusia County",N
+1786,2003.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1787,2003.0,apr,USA,Florida,"New Smyrna Beach, Volusia County  ",N
+1788,2003.0,apr,USA,Florida,"North Beach, Patrick AFB, Brevard County",N
+1789,2003.0,apr,USA,Florida,"Cocoa Beach, Brevard County",N
+1790,2003.0,apr,VENEZUELA,Nueva Esparta,"El Yaqu, Isla de Margarita",N
+1791,2003.0,apr,USA,Florida,"Melbourne Beach, Brevard County",N
+1792,2003.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1793,2003.0,mar,USA,Florida,"Petting Tank, Florida Aquarium, Tampa, Hillsborough County",N
+1794,2003.0,feb,NEW ZEALAND,Southland,East side of Bench Island in the Foveaux Strait,N
+1795,2003.0,feb,AUSTRALIA,South Australia,"Goolwa Beach, Fleurieu Peninsula",N
+1796,2003.0,feb,USA,Florida,"Jupiter, Palm Beach County",N
+1797,2003.0,feb,AUSTRALIA,New South Wales,"Coogee Bay, near Sydney",N
+1798,2003.0,feb,AUSTRALIA,Queensland,Burleigh Lake on the Gold Coast,Y
+1799,2003.0,jan,SOUTH AFRICA,Western Cape Province,"Near the lagoon at Table View, Cape Peninsula",UNKNOWN
+1800,2003.0,jan,COSTA RICA,North Pacific coast,Playa Tamarindo ,N
+1801,2003.0,jan,AUSTRALIA,Western Australia,Left break at the Hot Spot at Sheringa Beach,N
+1802,2002.0,dec,AUSTRALIA,Queensland,Great Barrier Reef  (near Upolu Bay),N
+1803,2002.0,dec,SOUTH AFRICA,Western Cape Province,Scarborough,N
+1804,2002.0,dec,AUSTRALIA,Queensland,Depth of 40 m on the wreck of the St. Paul off Brisbane,N
+1805,2002.0,dec,AUSTRALIA,Queensland,Golden Beach,UNKNOWN
+1806,2002.0,dec,AUSTRALIA,Queensland,Miami Lake,Y
+1807,2002.0,dec,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Y
+1808,2002.0,nov,MICRONESIA,Caroline Islands,"Pision Reef, Truk",N
+1809,2002.0,nov,USA,California,"Salmon Creek, Sonoma County",N
+1810,2002.0,nov,USA,Hawaii,Ka'anapali,N
+1811,2002.0,nov,TURKS & CAICOS,Caicos Bank,French Cay,N
+1812,2002.0,nov,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1813,2002.0,nov,USA,Florida,"New Smyrna Beach, Volusia County",N
+1814,2002.0,nov,FRENCH POLYNESIA,Society Islands,Tetiaroa,N
+1815,2002.0,oct,USA,Hawaii,"Kama'ole Beach Park I, Kihei, Maui",N
+1816,2002.0,oct,BRAZIL,Pernambuco,"Piedade Beach, Jaboatão dos Guararapes City, Recife",Y
+1817,2002.0,oct,USA,Florida,"Opposite main gate at Patrick Air Force Base, Cape Canaveral, Brevard County",N
+1818,2002.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+1819,2002.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+1820,2002.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+1821,2002.0,sep,USA,Florida,"Ormond Beach, Volusia County",N
+1822,2002.0,sep,USA,Florida,"Sebastian Inlet, Brevard County",N
+1823,2002.0,sep,USA,Hawaii,"Kahala, O'ahu",N
+1824,2002.0,sep,USA,Florida,"Key Largo, Monroe County",N
+1825,2002.0,sep,TONGA,Vava'u,Swimming with humpback whales,N
+1826,2002.0,sep,USA,Oregon,Cape Kiwanda,N
+1827,2002.0,sep,USA,California,"Moonstone Beach, Humboldt County",N
+1828,2002.0,sep,BRAZIL,Pernambuco,"Piedade Beach, Jaboatão dos Guararapes City",N
+1829,2002.0,sep,USA,Hawaii,"Hideaways Beach, Princeville, Kaua'i",N
+1830,2002.0,sep,SOUTH AFRICA,Western Cape Province,"Glencairn, False Bay",N
+1831,2002.0,sep,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1832,2002.0,sep,USA,Florida,"Daytona Beach Shores, Volusia County",N
+1833,2002.0,aug,USA,Hawaii,"Kewalo Basin Channel, O'ahu",N
+1834,2002.0,aug,USA,Alabama,"Gulf of Mexico, 65 miles offshore from Mobile",N
+1835,2002.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1836,2002.0,aug,USA,Florida,"Vero Beach, Indian River County",N
+1837,2002.0,aug,USA,Florida,"Ponce De Leon Inlet, Volusia County",N
+1838,2002.0,aug,UNITED KINGDOM,Cheshire,"Blue Planet Aquarium, Ellesmere Port",N
+1839,2002.0,aug,USA,North Carolina,"Topsail Beach, Pender County",N
+1840,2002.0,jul,USA,South Carolina,"Myrtle Beach, Horry County",N
+1841,2002.0,jul,USA,North Carolina,"Emerald Isle, Carteret County",N
+1842,2002.0,jul,USA,Florida,"Ponce Inlet, New Smyrna Beach, Volusia County",N
+1843,2002.0,jul,USA,Maryland,"100 miles off Ocean City, Maryland, in 7000' of water",Y
+1844,2002.0,jul,BRAZIL,Pernambuco,"Piedade Beach, Recife",N
+1845,2002.0,jul,USA,North Carolina,"Wrightsville Beach, New Hanover County",N
+1846,2002.0,jun,AUSTRALIA,Queensland,Sunshine Beach,N
+1847,2002.0,jun,USA,Florida,"New Smyrna Beach, Volusia County",N
+1848,2002.0,jun,INDONESIA,,"Shark caught in Indonesia, offloaded to trawler that docked at Samut Prakan, 20 miles south of Bangkok, Thailand",UNKNOWN
+1849,2002.0,jun,PAPUA NEW GUINEA,Louisiade Archipelago,"Brooker Island , Calvados Chain",N
+1850,2002.0,jun,PAPUA NEW GUINEA,Louisiade Archipelago,"Gawa Reefs, Sudest Island",Y
+1851,2002.0,jun,USA,Hawaii,"Anini Beach, Kaua'i",N
+1852,2002.0,jun,USA,Florida,"St Augustine Beach, St Johns County",N
+1853,2002.0,jun,USA,Florida,"South of Ponce Inlet, New Smyrna Beach, Volusia County",N
+1854,2002.0,jun,USA,Florida,"Jensen Beach, Martin County ",N
+1855,2002.0,jun,SOUTH AFRICA,KwaZulu-Natal between Port Edward and Port St Johns,Off Mkhambati ,N
+1856,2002.0,may,USA,California,"Stinson Beach, Marin County",N
+1857,2002.0,may,USA,Florida,"St. George Island (near Apachicola), Franklin County",N
+1858,2002.0,may,USA,Florida,"a pier at the end of Caxambas Drive, Marco Island ",N
+1859,2002.0,may,USA,Florida,"Atlantic Avenue, Palm Beach County",N
+1860,2002.0,may,COSTA RICA,Guanacaste,Playa Grande,N
+1861,2002.0,may,PAPUA NEW GUINEA,Milne Bay Province,Tewatewa Island,N
+1862,2002.0,may,USA,Florida,"Ten Thousand Islands National Wildlife Refuge, Collier County",N
+1863,2002.0,may,BRAZIL,Pernambuco,"Pina, Recife",N
+1864,2002.0,may,AUSTRALIA,Northern Territory,Darwin,N
+1865,2002.0,apr,AUSTRALIA,South Australia,"Smoky Bay, near Ceduna, on the Eyre Peninsula",Y
+1866,2002.0,apr,AUSTRALIA,New South Wales,26 nautical miles out to sea off Lake Macquarie,UNKNOWN
+1867,2002.0,apr,USA,Florida,"St. Augustine Beach, St. Johns County",N
+1868,2002.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1869,2002.0,apr,AUSTRALIA,New South Wales,"Bar Beach, Newcastle",N
+1870,2002.0,apr,BAHAMAS,Abaco Islands,Walkers Cay,N
+1871,2002.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1872,2002.0,apr,USA,Florida,"Lauderdale-By-The-Sea, Broward County",N
+1873,2002.0,mar,USA,Hawaii,"Brenecke Beach, Po'ipu, Kaua'i",N
+1874,2002.0,mar,USA,Florida,"Cocoa Beach, Brevard County",N
+1875,2002.0,mar,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Y
+1876,2002.0,mar,USA,Florida,"Daytona Beach Shores, Volusia County",N
+1877,2002.0,mar,USA,Florida,"Deerfield Beach (near Boca Raton), Broward County",N
+1878,2002.0,mar,USA,Florida,"New Smyrna Beach, Volusia County",N
+1879,2002.0,mar,NEW CALEDONIA,Loyalty Islands,Lifou,UNKNOWN
+1880,2002.0,feb,TURKS & CAICOS,,,Y
+1881,2002.0,feb,AUSTRALIA,Queensland,Sunshine Beach,N
+1882,2002.0,feb,FIJI,Cikobia Island (north of Vanua Levu),,Y
+1883,2002.0,feb,AUSTRALIA,New South Wales,Paramatta River (near Sydney),N
+1884,2002.0,jan,AUSTRALIA,New South Wales,Just north of Fingal Spit,N
+1885,2002.0,jan,AUSTRALIA,Western Australia,Collie River ,N
+1886,2002.0,jan,SOUTH AFRICA,KwaZulu-Natal,Durban Harbor,N
+1887,2002.0,jan,BRAZIL,Pernambuco,Candeias,Y
+1888,2002.0,jan,SOUTH AFRICA,KwaZulu-Natal,Mtunzini,N
+1889,2002.0,jan,USA,Hawaii,"Olowalu, Maui",N
+1890,2001.0,dec,AUSTRALIA,Western Australia,"Honeycombs, 250 km south of Perth",N
+1891,2001.0,nov,AUSTRALIA,New South Wales,"Flat Rock Beach, Lennox Head",N
+1892,2001.0,nov,USA,Hawaii,"Kapalua, Maui",N
+1893,2001.0,nov,AUSTRALIA,Western Australia,"Leighton Beach, south of North Cottesloe",UNKNOWN
+1894,2001.0,oct,SOUTH AFRICA,KwaZulu-Natal,Salt Rock ,N
+1895,2001.0,oct,AUSTRALIA,Queensland,200 miles offshore,N
+1896,2001.0,sep,MEXICO,Guerrero,Ixtapa,N
+1897,2001.0,sep,AUSTRALIA,Queensland,"Moreton Bay, NE of Brisbane ",N
+1898,2001.0,sep,USA,Florida,"Ponce Inlet, Volusia County",N
+1899,2001.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+1900,2001.0,sep,USA,Florida,"2 miles off Pompano Beach, Broward County",Y
+1901,2001.0,sep,USA,Florida,A quarter mile north of Fort Pierce Inlet,N
+1902,2001.0,sep,USA,North Carolina,"North Topsail Beach, Onslow County",N
+1903,2001.0,sep,UNITED KINGDOM,Cheshire,"Blue Planet Aquarium, Ellesmere Port",N
+1904,2001.0,sep,USA,Florida,"Everglades National Park, Monroe County",N
+1905,2001.0,sep,USA,Florida,"Key Biscayne, Dade County",N
+1906,2001.0,sep,USA,South Carolina,"Waites Island, Horry County",N
+1907,2001.0,sep,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Y
+1908,2001.0,sep,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",N
+1909,2001.0,sep,USA,Florida,"Mayport Naval Station, Jacksonville, Duval Country",N
+1910,2001.0,sep,USA,Virginia,"Sandbridge Beach, Princess Anne County",Y
+1911,2001.0,aug,BAHAMAS,Abaco Islands,North of Grand Cay,N
+1912,2001.0,aug,USA,Florida,"Coquina Beach, Anna Maria Island, Manatee County",N
+1913,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1914,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1915,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1916,2001.0,aug,USA,Florida,"Daytona, Volusia County ",N
+1917,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1918,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1919,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1920,2001.0,aug,USA,Florida,"Wilbur-by-the-Sea, Volusia County",N
+1921,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1922,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1923,2001.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+1924,2001.0,aug,BAHAMAS,Grand Bahama Island,"High Rock, 25 to 30 miles east of Freeport",N
+1925,2001.0,aug,THAILAND,Rayong Province,Laem Mae Pim Beach,N
+1926,2001.0,aug,USA,South Carolina,"Near 70th Avenue, Myrtle Beach, Horry County",N
+1927,2001.0,aug,BAHAMAS,Grand Bahama Island,Freeport,N
+1928,2001.0,aug,ITALY,,Rimini,N
+1929,2001.0,jul,USA,South Carolina,"Myrtle Beach, Horry County",N
+1930,2001.0,jul,USA,Florida,"Taverniier, Monroe County",N
+1931,2001.0,jul,USA,Florida,"Marathon , Monroe County",N
+1932,2001.0,jul,USA,Massachusetts,Chatham Island,N
+1933,2001.0,jul,USA,Florida,"Santa Rosa Island, Escambia County",N
+1934,2001.0,jul,USA,Florida,"Amelia Island, Nassau County",N
+1935,2001.0,jul,MEXICO,Baja California,Ensenada,N
+1936,2001.0,jul,USA,Florida,Gulf Islands National Seashore,N
+1937,2001.0,jul,USA,South Carolina,"Isle of Palms, Charleston County ",N
+1938,2001.0,jul,USA,Georgia,"Jekyll Island, Glynn County",N
+1939,2001.0,jun,USA,Texas,Padre Island National Seashore,N
+1940,2001.0,jun,USA,California,Catalina Island,N
+1941,2001.0,jun,AUSTRALIA,New South Wales,Lord Howe Island (island group 440 miles northeast of Sydney),UNKNOWN
+1942,2001.0,jun,USA,South Carolina,"Off 21st Avenue, Isle of Palms, Charleston County",N
+1943,2001.0,may,USA,Texas,Galveston Island,N
+1944,2001.0,may,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",N
+1945,2001.0,may,USA,South Carolina,"Fripp Island, Beaufort County",N
+1946,2001.0,may,PHILIPPINES,Zamboanga del Sur Province,,N
+1947,2001.0,may,MADAGASCAR,,Shipwrecked Ferry M/V Samsonnette,UNKNOWN
+1948,2001.0,may,SOUTH AFRICA,Eastern Cape Province,East London,N
+1949,2001.0,may,AUSTRALIA,New South Wales,Noraville,N
+1950,2001.0,may,USA,Florida,"Jacksonville, Duval County",N
+1951,2001.0,may,FIJI,Taveuni,,Y
+1952,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1953,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1954,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1955,2001.0,apr,USA,Florida,"Waveland Beach, Hutchinson Island, St Lucie County",N
+1956,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1957,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1958,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1959,2001.0,apr,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",N
+1960,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1961,2001.0,apr,USA,Florida,"New Smyrna Beach / Waveland, Volusia County",N
+1962,2001.0,apr,USA,Hawaii,"Ewa Beach, O'ahu",N
+1963,2001.0,apr,USA,Florida,"New Smyrna Beach, Volusia County",N
+1964,2001.0,apr,SOUTH AFRICA,Eastern Cape Province,Cape St. Francis,N
+1965,2001.0,apr,AUSTRALIA,New South Wales,Bronte Beach,N
+1966,2001.0,apr,USA,Florida,"Bethune Beach, south of New Smyrna Beach, Volusia County",N
+1967,2001.0,apr,BRAZIL,Rio Grande de Norte,"Praia de Camapum, Macau",N
+1968,2001.0,apr,AUSTRALIA,New South Wales,Nambucca River Entrance,N
+1969,2001.0,mar,USA,Hawaii,"Sandy Beach, Oahu",N
+1970,2001.0,mar,USA,Florida,"Coral Cove Park, Jupiter Island, Martin County",N
+1971,2001.0,mar,BRAZIL,Bahia,Nova Vicosa,UNKNOWN
+1972,2001.0,mar,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Y
+1973,2001.0,mar,CARIBBEAN SEA,,Between St. Maarten & Anguilla,Y
+1974,2001.0,feb,AUSTRALIA,Western Australia,Albany (incident took place 200 metres from swimmers),N
+1975,2001.0,feb,MALAYSIA,Off the western coast of peninsular Malaysia,Pulau Pangkor (Pangkor Island),UNKNOWN
+1976,2001.0,feb,AUSTRALIA,New South Wales,Broome Head,N
+1977,2001.0,jan,AUSTRALIA,New South Wales,South West Rocks,N
+1978,2001.0,jan,CUBA,Holquin Province,Off Blau Costa Verde resort,N
+1979,2001.0,jan,AUSTRALIA,South Australia,Adelaide,N
+1980,2001.0,jan,USA,California,"Sunset Cliffs, San Diego",N
+1981,2001.0,jan,NEW ZEALAND,North Island,Sandy Bay/Whananaki,N
+1982,2000.0,dec,AUSTRALIA,Queensland,Flinders Cay,N
+1983,2000.0,dec,FIJI,Taveuni,Garden Island Resort,Y
+1984,2000.0,dec,AUSTRALIA,South Australia,"3 km off Port Victoria, Yorke Peninsula",N
+1985,2000.0,dec,CANADA,New Brunswick,Bay of Fundy,N
+1986,2000.0,dec,AUSTRALIA,Queensland,"Sykes Reef, Great Barrier Reef",N
+1987,2000.0,dec,NEW ZEALAND,Cook Islands,"Arorangi, Rarotonga",Y
+1988,2000.0,nov,AUSTRALIA,Queensland,Orpheus Island,N
+1989,2000.0,nov,AUSTRALIA,South Australia,Ceduna,UNKNOWN
+1990,2000.0,nov,USA,Florida,"Bonita Springs, Lee County",N
+1991,2000.0,nov,USA,Florida,"Vaughn Beach, Flagler County",UNKNOWN
+1992,2000.0,nov,AUSTRALIA,Western Australia,"Cottesloe Beach, Perth",N
+1993,2000.0,nov,AUSTRALIA,Western Australia,"Cottesloe Beach, Perth",Y
+1994,2000.0,nov,USA,California,"1/4 to 1/2 m north of the jetty at Bunkers, Eureka, Humboldt County",N
+1995,2000.0,oct,AUSTRALIA,Queensland,Peel Island,N
+1996,2000.0,oct,USA,Florida,"Fort Pierce Inlet State Park, St Lucie County",N
+1997,2000.0,oct,USA,Hawaii,Olowalu,N
+1998,2000.0,oct,USA,Florida,"South Beach, Sebastian, Indian River County",N
+1999,2000.0,oct,USA,Florida,"Lake Worth Inlet/West Palm Beach, Palm Beach County",N
+2000,2000.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+2001,2000.0,oct,USA,Florida,"New Smyrna Beach, Volusia County",N
+2002,2000.0,oct,USA,North Carolina,"Wrightsville Beach, New Hanover County",N
+2003,2000.0,sep,USA,California,"Mavericks, Half Moon Bay, San Mateo County",N
+2004,2000.0,sep,AUSTRALIA,South Australia,"Black Point, Eyre Peninsula",Y
+2005,2000.0,sep,AUSTRALIA,South Australia,Cactus Beach near Penong,Y
+2006,2000.0,sep,AUSTRALIA,New South Wales,Wollongong,N
+2007,2000.0,sep,OKINAWA,Miyako Island,Sunayama Beach,Y
+2008,2000.0,sep,USA,South Carolina,"Isle of Palms, Charleston County",N
+2009,2000.0,sep,USA,Florida,"Fort Pierce Inlet, St Lucie County",N
+2010,2000.0,sep,USA,Florida,"Sebastian Inlet, Indian River or Brevard County",N
+2011,2000.0,sep,USA,Florida,"Daytona Beach Shores, Volusia County",N
+2012,2000.0,sep,USA,Florida,"Vero Beach, Indian River County",N
+2013,2000.0,sep,SOUTH AFRICA,Western Cape Province,Dyer Island,N
+2014,2000.0,sep,TANZANIA,,"Coco Beach, Dar-es-Salaam (Reported as the 5th fatality in 3 months at Coco Beach)",Y
+2015,2000.0,sep,USA,Florida,"New Smyrna Beach, Volusia County",N
+2016,2000.0,sep,REUNION,Saint-Pierre,Pic du Diable ,N
+2017,2000.0,sep,TANZANIA,,"Coco Beach, Dar-es-Salaam",Y
+2018,2000.0,aug,USA,Florida,"New Smyrna Beach, Volusia County",N
+2019,2000.0,aug,USA,Florida,"Boca Ciega Bay, Tampa, Pinellas County",Y
+2020,2000.0,aug,USA,Alaska,Prince William Sound,N
+2021,2000.0,aug,USA,North Carolina,"Bouges Bank, Emerald Isle, Carteret County",N
+2022,2000.0,aug,USA,Hawaii,"Kanaha Beach, Maui",N
+2023,2000.0,aug,USA,Florida,"South Jacksonville Beach, Duval County",N
+2024,2000.0,aug,USA,Florida,"St. Augustine, St. Johns County",N
+2025,2000.0,aug,USA,North Carolina,"Emerald Isle, Carteret County",UNKNOWN
+2026,2000.0,aug,USA,Florida,Florida Keys,UNKNOWN
+2027,2000.0,aug,TANZANIA,,"Coco Beach, Dar-es-Salaam",Y
+2028,2000.0,jul,USA,Florida,"New Smyrna Beach, Volusia County",N
+2029,2000.0,jul,USA,Florida,"Big Pine Key, Monroe County ",N
+2030,2000.0,jul,USA,North Carolina,"Oceanic Pier, Wrightsville Beach, New Hanover County",N
+2031,2000.0,jul,USA,North Carolina,"Holden Beach, Brunswick County",N
+2032,2000.0,jul,SOUTH AFRICA,Eastern Cape Province,"Nahoon, East London",N
+2033,2000.0,jul,SOUTH AFRICA,Eastern Cape Province,Cape Recife,N
+2034,2000.0,jul,SOUTH AFRICA,KwaZulu-Natal,South of Durban,N
+2035,2000.0,jul,TONGA,Minerva Reef,Treated at Nuku-alofa,N
+2036,2000.0,jul,USA,Florida,"Daytona  Beach, Volusia County",N
+2037,2000.0,jul,USA,Florida,"Neptune Avenue, Ormond Beach, Volusia County",N
+2038,2000.0,jul,USA,Texas,"Mustang Island, Corpus Christi",N
+2039,2000.0,jul,USA,North Carolina,"Pine Island, Corolla, Currituck County",N
+2040,2000.0,jul,USA,Florida,"Daytona Beach, Volusia County",N
+2041,2000.0,jul,USA,Florida,"Artifical reef 3 miles off Manatee Beach, Manatee County",N
+2042,2000.0,jul,USA,Florida,"Smyrna Dunes  Park, New Smyrna Beach, Volusia County",N
+2043,2000.0,jul,USA,Florida,"Smyrna Dunes Park, New Smyrna Beach, Volusia County",N
+2044,2000.0,jul,TANZANIA,,"Coco Beach, Dar-es-Salaam",Y
+2045,2000.0,jun,PAPUA NEW GUINEA,Madang Province,"Long Island near Madang, about 500 km (310 miles) north of the South Pacific nation's capital of Port Moresby",Y
+2046,2000.0,jun,NEW ZEALAND,North Island,"Papamoa Beach, Bay of Plenty",N
+2047,2000.0,jun,USA,Florida,"Seminole Avenue, Ormond Beach, Volusia County",N
+2048,2000.0,jun,USA,Florida,"Pensacola Bay, Escambia County",N
+2049,2000.0,jun,USA,Texas,"J.P. Luby Surf Park, Corpus Christi",N
+2050,2000.0,jun,USA,Alabama,"Gulf Shores, Baldwin County",N
+2051,2000.0,jun,USA,Alabama,"Gulf Shores, Baldwin County",N
+2052,2000.0,jun,USA,Florida,"27th Avenue, New Smyrna Beach, Volusia County",N
+2053,2000.0,jun,TANZANIA,,"Coco Beach in Oyster Bay, 7 km north of Dar-es-Salaam",Y
+2054,2000.0,may,NEW CALEDONIA,South Province,Mont Dore,Y
+2055,2000.0,may,AUSTRALIA,Victoria,"Koonya Beach, Melbourne",UNKNOWN
+2056,2000.0,may,PAPUA NEW GUINEA,Madang Province,"Long Island near Madang, about 500 km (310 miles) north of the South Pacific nation's capital of Port Moresby",N
+2057,2000.0,may,PAPUA NEW GUINEA,Madang Province,"Long Island near Madang, about 500 km (310 miles) north of the South Pacific nation's capital of Port Moresby",Y
+2058,2000.0,apr,USA,Florida,"On the south side of Ponce Inlet, Volusia County",N
+2059,2000.0,apr,USA,Florida,"Municipal Beach, Riviera Beach, Palm Beach County",N
+2060,2000.0,mar,USA,Florida,Santa Rosa Sound Escambia County,N
+2061,2000.0,mar,AUSTRALIA,Queensland,"Main Beach, Gold Coast",N
+2062,2000.0,mar,USA,Florida,"Juno Beach, Palm Beach County",N
+2063,2000.0,mar,USA,Florida,"Floridana Beach, Brevard County",N
+2064,2000.0,mar,NEW CALEDONIA,North Province,Poum,Y
+2065,2000.0,mar,AUSTRALIA,New South Wales,"McMasters Beach, Central Coast",N
+2066,2000.0,mar,AUSTRALIA,New South Wales,Parramatta River,N
+2067,2000.0,mar,AUSTRALIA,New South Wales,Parramatta River,N
+2068,2000.0,mar,NEW ZEALAND,North Island,Between the Kakanui River and Campbell's Bay,UNKNOWN
+2069,2000.0,mar,AUSTRALIA,New South Wales,"Taronga Wharf, Athol Bay, Sydney Harbor",N
+2070,2000.0,mar,USA,Louisiana,Midnight Lump (38 miles offshore),N
+2071,2000.0,feb,USA,Florida,"Riviera Beach, Palm Beach County",N
+2072,2000.0,feb,SOUTH AFRICA,Western Cape Province,Struis Bay,N
+2073,2000.0,feb,NUNITED KINGDOM,Worcestershire,The Fountain Pub in Tenbury Wells,N
+2074,2000.0,feb,NEW ZEALAND,South Island,Oreti Beach (reported as the 4th person bitten in NZ in 2000),N
+2075,2000.0,feb,AUSTRALIA,South Australia,"Point Sinclair, Cactus Beach near Penong",N
+2076,2000.0,jan,REUNION,,Saint Pierre,Y
+2077,2000.0,jan,THAILAND,Phang nga Province,Phang nga Island,Y
+2078,2000.0,UNKNOWN,USA,Florida,"Boca Grande, Lee County",N
